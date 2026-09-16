@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documents/arcanes/melee-weapon-arcanes/melee-influence/","created":"2026-09-07T23:33:53.133-04:00","updated":"2026-09-13T16:24:55.306-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/documents/arcanes/melee-weapon-arcanes/melee-influence/","tags":["Melee"],"created":"2026-09-07T23:33:53.133-04:00","updated":"2026-09-15T15:20:56.128-04:00","dg-note-properties":{"tags":["Melee"],"links":["[[Roots/Branches/Melee Weapon Arcanes]]"]}}
 ---
 
 # Rank 5

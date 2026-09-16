@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-09-05T06:20:31.593-04:00","updated":"2026-09-15T14:54:02.246-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"created":"2026-09-05T06:20:31.593-04:00","updated":"2026-09-16T06:13:04.893-04:00","dg-note-properties":{}}
 ---
 
-This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing.
+This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as a public knowledgebase based on my own personal testing. It is very much work in progress and as such pages may be incomplete or lack any text.
 
 > [!NOTICE] 
 > For the best viewing experience if you are not on the Digital Garden version of the Obsidian Vault, it is recommended to open this in Obsidian instead of browsing through it manually file by file. Download it from here for your respective operating system: https://obsidian.md

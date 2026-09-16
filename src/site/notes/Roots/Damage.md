@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/damage/","created":"2026-09-08T03:54:46.330-04:00","updated":"2026-09-13T16:23:52.611-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/damage/","created":"2026-09-08T03:54:46.330-04:00","updated":"2026-09-15T15:26:59.993-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
 # Physical

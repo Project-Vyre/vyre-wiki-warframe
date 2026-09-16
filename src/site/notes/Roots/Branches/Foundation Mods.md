@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/branches/foundation-mods/","created":"2026-09-07T07:27:07.624-04:00","updated":"2026-09-13T16:18:05.174-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/branches/foundation-mods/","created":"2026-09-07T07:27:07.624-04:00","updated":"2026-09-15T16:27:37.777-04:00","dg-note-properties":{}}
 ---
 
 Mods that make up the foundation of the majority of builds.
@@ -124,3 +124,22 @@ Mods that increase your Multishot.
 ## Melee
 - [[Documents/Mods/Melee/Galvanized/Galvanized Elementalist\|Galvanized Elementalist]] (Status Chance & Status Damage)
 - [[Documents/Mods/Melee/Weeping Wounds\|Weeping Wounds]]
+
+# Elemental & Status Damage
+Mods that increase elemental or status damage.
+
+## Primary
+
+### Rifle
+
+#### Sniper
+
+##### Bow
+
+### Shotgun
+
+## Secondary
+
+## Melee
+
+## Archgun

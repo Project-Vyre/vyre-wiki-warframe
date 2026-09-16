@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/status-effects/","created":"2026-09-07T07:03:13.828-04:00","updated":"2026-09-13T16:24:19.726-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/status-effects/","created":"2026-09-07T07:03:13.828-04:00","updated":"2026-09-15T15:27:07.018-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
 Everything related to Status Effects.

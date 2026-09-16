@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tier-lists/canvas-weapon-tier-lists/incarnon-genesis-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:31:55.139-04:00","updated":"2026-09-13T16:13:50.254-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tier-lists/canvas-weapon-tier-lists/incarnon-genesis-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:31:55.139-04:00","updated":"2026-09-16T06:11:39.970-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
 ---
 
 <div id="Incarnon_Genesis_Tier_Listcanvas" class="canvas-wrapper hide">
@@ -24,110 +24,139 @@
 				<feMergeNode in="bg"/>
 				<feMergeNode in="SourceGraphic"/>
 			</feMerge>
-		</filter></defs><path d="M -240 -1540 C -362.2620137246234 -1540, -412.7379862753766 -1620, -535 -1620" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="66f07b89fd6f4bd2"  marker-end="url(#arrow-vartextmuted)" />
-<path d="M 320 -1540 C 1611.4054359495317 -1540, 2148.5945640504683 -2370, 3440 -2370" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="79e393f56a9bf232"  marker-end="url(#arrow-vartextmuted)" />
-<path d="M 40 -1440 C 40 -479.996479173123, 33.5 -0.0035208268769792994, 33.5 960" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="5262bed68650a0fb"  marker-end="url(#arrow-vartextmuted)" />
+		</filter></defs><path d="M 40 -1440 C 40 -1360, 40 -1320, 40 -1240" fill="none" stroke="var(--text-muted)" stroke-width="2" class="canvas-edge" data-edge-id="c2fbf4a9b61992f5"  marker-end="url(#arrow-vartextmuted)" />
 		</svg>
-		<div class="canvas-node canvas-node-group " data-node-id="53ea580d80060e5a" style="transform: translate(-3085px, 960px); width: 6237px; height: 5516px;  ">
+		<div class="canvas-node canvas-node-group " data-node-id="53ea580d80060e5a" style="transform: translate(6380px, -1240px); width: 6237px; height: 6400px;  ">
 	<div class="canvas-node-label">Melee</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="6a0dcb64059c2427" style="transform: translate(3440px, -5760px); width: 5040px; height: 6780px; --canvas-color: #fb464c; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="6a0dcb64059c2427" style="transform: translate(2200px, -1240px); width: 4160px; height: 6380px; --canvas-color: #fb464c; ">
 	<div class="canvas-node-label">Secondary</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="e9c954ea80c69a43" style="transform: translate(-4755px, -4020px); width: 4220px; height: 4800px; --canvas-color: #53dfdd; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="e9c954ea80c69a43" style="transform: translate(-2080px, -1240px); width: 4240px; height: 5740px; --canvas-color: #53dfdd; ">
 	<div class="canvas-node-label">Primary</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="59419d3d70164277" style="transform: translate(3540px, -3360px); width: 4840px; height: 1440px; --canvas-color: #e9973f; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="59419d3d70164277" style="transform: translate(2260px, 660px); width: 4060px; height: 1660px; --canvas-color: #e9973f; ">
 	<div class="canvas-node-label">A</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="04cf10e123b029cf" style="transform: translate(-2880px, 1104px); width: 5140px; height: 1092px; --canvas-color: #fb464c; ">
-	<div class="canvas-node-label">S</div>
-</div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="2f5d985ab2fa0674" style="transform: translate(-2880px, 2276px); width: 5140px; height: 958px; --canvas-color: #e9973f; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="2f5d985ab2fa0674" style="transform: translate(6440px, 820px); width: 5140px; height: 958px; --canvas-color: #e9973f; ">
 	<div class="canvas-node-label">A</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="59ea399e964b28cb" style="transform: translate(-4720px, -3920px); width: 4140px; height: 1060px; --canvas-color: #fb464c; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="04cf10e123b029cf" style="transform: translate(6440px, -180px); width: 5140px; height: 940px; --canvas-color: #fb464c; ">
 	<div class="canvas-node-label">S</div>
 </div>
-<div class="canvas-node canvas-node-group " data-node-id="c04bdc3eac29e940" style="transform: translate(-2880px, 5341px); width: 5140px; height: 847px;  ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="8fbffde50df3d869" style="transform: translate(6440px, -1180px); width: 5140px; height: 940px; --canvas-color: #a882ff; ">
+	<div class="canvas-node-label">Apex</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="c04bdc3eac29e940" style="transform: translate(6440px, 4277px); width: 5140px; height: 847px;  ">
 	<div class="canvas-node-label">D</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="fcdb201d28946bd9" style="transform: translate(-2880px, 4316px); width: 5140px; height: 847px; --canvas-color: #44cf6e; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="fcdb201d28946bd9" style="transform: translate(6440px, 3252px); width: 5140px; height: 847px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">C</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="53479732dbe974ae" style="transform: translate(-2880px, 3356px); width: 5140px; height: 847px; --canvas-color: #e0de71; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="53479732dbe974ae" style="transform: translate(6440px, 2292px); width: 5140px; height: 847px; --canvas-color: #e0de71; ">
 	<div class="canvas-node-label">B</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="c0fce32f33b684cd" style="transform: translate(3540px, -5200px); width: 4320px; height: 940px; --canvas-color: #fb464c; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="59ea399e964b28cb" style="transform: translate(-2020px, -180px); width: 4140px; height: 940px; --canvas-color: #fb464c; ">
 	<div class="canvas-node-label">S</div>
 </div>
-<div class="canvas-node canvas-node-group " data-node-id="d2fff21b96dadf36" style="transform: translate(3540px, 137px); width: 4840px; height: 823px;  ">
-	<div class="canvas-node-label">D</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="a32fd8a8109b3073" style="transform: translate(-2020px, -1180px); width: 4140px; height: 940px; --canvas-color: #a882ff; ">
+	<div class="canvas-node-label">Apex</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="f36da07c5af6cf14" style="transform: translate(3540px, -1730px); width: 4840px; height: 823px; --canvas-color: #e0de71; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="f36da07c5af6cf14" style="transform: translate(2260px, 2380px); width: 4080px; height: 940px; --canvas-color: #e0de71; ">
 	<div class="canvas-node-label">B</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="4c00d0861cab93e3" style="transform: translate(3540px, -800px); width: 4840px; height: 823px; --canvas-color: #44cf6e; ">
-	<div class="canvas-node-label">C</div>
-</div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="be710e76ba320e43" style="transform: translate(-4715px, -2820px); width: 4140px; height: 860px; --canvas-color: #e9973f; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="be710e76ba320e43" style="transform: translate(-2020px, 820px); width: 4140px; height: 860px; --canvas-color: #e9973f; ">
 	<div class="canvas-node-label">A</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="fc17f39b5f05f64c" style="transform: translate(-4715px, -1920px); width: 4140px; height: 860px; --canvas-color: #e0de71; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="fc17f39b5f05f64c" style="transform: translate(-2020px, 1740px); width: 4140px; height: 860px; --canvas-color: #e0de71; ">
 	<div class="canvas-node-label">B</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="e69a62a18652d3ca" style="transform: translate(-4715px, -1020px); width: 4140px; height: 860px; --canvas-color: #44cf6e; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="e69a62a18652d3ca" style="transform: translate(-2020px, 2660px); width: 4140px; height: 860px; --canvas-color: #44cf6e; ">
 	<div class="canvas-node-label">C</div>
 </div>
-<div class="canvas-node canvas-node-group " data-node-id="5dcb9c41cfffa201" style="transform: translate(-4715px, -120px); width: 4140px; height: 860px;  ">
+<div class="canvas-node canvas-node-group " data-node-id="5dcb9c41cfffa201" style="transform: translate(-2020px, 3580px); width: 4140px; height: 860px;  ">
 	<div class="canvas-node-label">D</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="13828ec2889e24ed" style="transform: translate(3580px, -5160px); width: 3060px; height: 860px; --canvas-color: #fb464c; ">
+<div class="canvas-node canvas-node-group has-color" data-node-id="c0fce32f33b684cd" style="transform: translate(2260px, -260px); width: 4060px; height: 860px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="13828ec2889e24ed" style="transform: translate(2260px, -1180px); width: 4060px; height: 860px; --canvas-color: #a882ff; ">
 	<div class="canvas-node-label">Apex</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="8fbffde50df3d869" style="transform: translate(-2800px, 1246px); width: 2265px; height: 901px; --canvas-color: #fb464c; ">
-	<div class="canvas-node-label">Apex</div>
+<div class="canvas-node canvas-node-group " data-node-id="d2fff21b96dadf36" style="transform: translate(2260px, 4260px); width: 4080px; height: 823px;  ">
+	<div class="canvas-node-label">D</div>
 </div>
-<div class="canvas-node canvas-node-group has-color" data-node-id="a32fd8a8109b3073" style="transform: translate(-4680px, -3840px); width: 1800px; height: 940px; --canvas-color: #fb464c; ">
-	<div class="canvas-node-label">Apex</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="4c00d0861cab93e3" style="transform: translate(2260px, 3380px); width: 4080px; height: 823px; --canvas-color: #44cf6e; ">
+	<div class="canvas-node-label">C</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="fa66f1757e4898f9" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Cestra Incarnon Genesis.md" style="transform: translate(7800px, -3245px); width: 547px; height: 720px; ">
-	<div class="canvas-node-label">Cestra Incarnon Genesis</div>
+<div class="canvas-node canvas-node-text " data-node-id="6b5c3ad1b48cdbac" style="transform: translate(-240px, -2520px); width: 560px; height: 860px; ">
 	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/cestra-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		<div class="canvas-node-content markdown-rendered">
+			<div class="canvas-node-text-content" data-markdown="IyBDYXJkIFNpemUgUmVmZXJlbmNlClRoaXMgaXMgdGhlIGRlZmF1bHQgY2FyZCBzaXplIHJlZmVyZW5jZS4gQ3RybCArIEMgbWUgYXJvdW5kIHRvIGVuc3VyZSB0aGUgY2FyZHMgYXJlIGFsbW9zdCB1bmlmb3JtbHkgdGhlIHNhbWUgc2l6ZSBhbmQgcmVzaXplIHRoZW0gdG8gdGhpcyBpZiBuZWVkZWQu"></div>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="cfa559e3efe024b2" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Furax Incarnon Genesis.md" style="transform: translate(-677px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Furax Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="d65d84d62e0288a6" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Burston Incarnon Genesis.md" style="transform: translate(-1400px, 860px); width: 560px; height: 778px; ">
+	<div class="canvas-node-label">Burston Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/furax-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/burston-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="a878e667c63e0208" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Ack and Brunt Incarnon Genesis.md" style="transform: translate(-159px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Ack and Brunt Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="2a6bff913b49963f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Soma Incarnon Genesis.md" style="transform: translate(-820px, 860px); width: 560px; height: 778px; ">
+	<div class="canvas-node-label">Soma Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/ack-and-brunt-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/soma-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="7e3dda022e381a1d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Magistar Incarnon Genesis.md" style="transform: translate(-1637px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Magistar Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="dec994293ef2e6db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Latron Incarnon Genesis.md" style="transform: translate(-1400px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Latron Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/magistar-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/latron-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="5bb72d5c4bd16f7a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Sibear Incarnon Genesis.md" style="transform: translate(-1157px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Sibear Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="516c602ccaf91c3b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Sybaris Incarnon Genesis.md" style="transform: translate(-820px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Sybaris Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/sibear-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/sybaris-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8f088e60082551b5" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Miter Incarnon Genesis.md" style="transform: translate(-1400px, -140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Miter Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/miter-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b1c8f810fc6ec68e" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Torid Incarnon Genesis.md" style="transform: translate(-820px, -140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Torid Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/torid-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="191fbb85ce25739f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Paris Incarnon Genesis.md" style="transform: translate(-1400px, 1780px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Paris Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/paris-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="760ec6f30c2c9fe4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Braton Incarnon Genesis.md" style="transform: translate(-240px, 860px); width: 560px; height: 778px; ">
+	<div class="canvas-node-label">Braton Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/braton-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
@@ -138,102 +167,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="4e73475669078601" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Obex Incarnon Genesis.md" style="transform: translate(-2647px, 4556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Obex Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/obex-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="1a8d975c6ddbde8b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Ceramic Dagger Incarnon Genesis.md" style="transform: translate(-2647px, 3596px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Ceramic Dagger Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/ceramic-dagger-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="660bdc67a702fb9c" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Skana Incarnon Genesis.md" style="transform: translate(-2647px, 5596px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Skana Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/skana-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="0bcd3f09fd13b838" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Bo Incarnon Genesis.md" style="transform: translate(-2080px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Bo Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/bo-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="a576aa621bde8d7b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Hate Incarnon Genesis.md" style="transform: translate(-2160px, 1387px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Hate Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/hate-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="ca010337ff37c01b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Dual Ichor Incarnon Genesis.md" style="transform: translate(-1160px, 1387px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Dual Ichor Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/dual-ichor-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="2266115531f2703b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Okina Incarnon Genesis.md" style="transform: translate(-1680px, 1387px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Okina Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/okina-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="34003520e0eb4b6a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Anku Incarnon Genesis.md" style="transform: translate(-2604px, 2556px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Anku Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/anku-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="c3d2a28781378cac" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Destreza Incarnon Genesis.md" style="transform: translate(-2604px, 1387px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Destreza Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/destreza-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="e9e95081347bef8a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Nami Solo Incarnon Genesis.md" style="transform: translate(-317px, 1476px); width: 400px; height: 400px; ">
-	<div class="canvas-node-label">Nami Solo Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/nami-solo-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="7e65f17104809201" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Gammacor Incarnon Genesis.md" style="transform: translate(4220px, -1593px); width: 560px; height: 620px; ">
-	<div class="canvas-node-label">Gammacor Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/gammacor-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-text " data-node-id="6b5c3ad1b48cdbac" style="transform: translate(-240px, -2520px); width: 560px; height: 860px; ">
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-rendered">
-			<div class="canvas-node-text-content" data-markdown="IyBDYXJkIFNpemUgUmVmZXJlbmNlClRoaXMgaXMgdGhlIGRlZmF1bHQgY2FyZCBzaXplIHJlZmVyZW5jZS4gQ3RybCArIEMgbWUgYXJvdW5kIHRvIGVuc3VyZSB0aGUgY2FyZHMgYXJlIGFsbW9zdCB1bmlmb3JtbHkgdGhlIHNhbWUgc2l6ZSBhbmQgcmVzaXplIHRoZW0gdG8gdGhpcyBpZiBuZWVkZWQu"></div>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="95bb34a12c2c303f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Boar Incarnon Genesis.md" style="transform: translate(-4675px, -2780px); width: 560px; height: 778px; ">
+<div class="canvas-node canvas-node-file " data-node-id="95bb34a12c2c303f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Boar Incarnon Genesis.md" style="transform: translate(-1980px, 860px); width: 560px; height: 778px; ">
 	<div class="canvas-node-label">Boar Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -241,7 +175,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="f7288238b1eeedcf" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Dread Incarnon Genesis.md" style="transform: translate(-4675px, -1880px); width: 560px; height: 778px; ">
+<div class="canvas-node canvas-node-file " data-node-id="f7288238b1eeedcf" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Dread Incarnon Genesis.md" style="transform: translate(-1980px, 1780px); width: 560px; height: 778px; ">
 	<div class="canvas-node-label">Dread Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -249,47 +183,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="275ba7694883f2e4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Gorgon Incarnon Genesis.md" style="transform: translate(-1175px, -2780px); width: 560px; height: 778px; ">
-	<div class="canvas-node-label">Gorgon Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/gorgon-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="d65d84d62e0288a6" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Burston Incarnon Genesis.md" style="transform: translate(-4095px, -2780px); width: 560px; height: 778px; ">
-	<div class="canvas-node-label">Burston Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/burston-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="191fbb85ce25739f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Paris Incarnon Genesis.md" style="transform: translate(-4095px, -1880px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Paris Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/paris-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="2a6bff913b49963f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Soma Incarnon Genesis.md" style="transform: translate(-3515px, -2780px); width: 560px; height: 778px; ">
-	<div class="canvas-node-label">Soma Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/soma-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="760ec6f30c2c9fe4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Braton Incarnon Genesis.md" style="transform: translate(-2935px, -2780px); width: 560px; height: 778px; ">
-	<div class="canvas-node-label">Braton Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/braton-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="2f38debffd7bb139" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Dera Incarnon Genesis.md" style="transform: translate(-2355px, -2780px); width: 580px; height: 778px; ">
+<div class="canvas-node canvas-node-file " data-node-id="2f38debffd7bb139" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Dera Incarnon Genesis.md" style="transform: translate(340px, 860px); width: 580px; height: 778px; ">
 	<div class="canvas-node-label">Dera Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -297,7 +191,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="c6cc9c8e11d7ee8f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Boltor Incarnon Genesis.md" style="transform: translate(-1755px, -2780px); width: 560px; height: 778px; ">
+<div class="canvas-node canvas-node-file " data-node-id="c6cc9c8e11d7ee8f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Boltor Incarnon Genesis.md" style="transform: translate(940px, 860px); width: 560px; height: 778px; ">
 	<div class="canvas-node-label">Boltor Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -305,127 +199,15 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="dec994293ef2e6db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Latron Incarnon Genesis.md" style="transform: translate(-3480px, -3800px); width: 560px; height: 860px; ">
-	<div class="canvas-node-label">Latron Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="275ba7694883f2e4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Gorgon Incarnon Genesis.md" style="transform: translate(1520px, 860px); width: 560px; height: 778px; ">
+	<div class="canvas-node-label">Gorgon Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/latron-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/gorgon-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="41b86335a4a316f4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Ballistica Incarnon Genesis.md" style="transform: translate(4220px, -5120px); width: 580px; height: 780px; ">
-	<div class="canvas-node-label">Ballistica Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/ballistica-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="b4ccc71104486d0d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Furis Incarnon Genesis.md" style="transform: translate(4820px, -5120px); width: 580px; height: 780px; ">
-	<div class="canvas-node-label">Furis Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/furis-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="827fe2a3187c727a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Dual Toxocyst Incarnon Genesis.md" style="transform: translate(5420px, -5120px); width: 580px; height: 780px; ">
-	<div class="canvas-node-label">Dual Toxocyst Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/dual-toxocyst-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="043a264ead4e0844" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Angstrum Incarnon Genesis.md" style="transform: translate(6020px, -5120px); width: 580px; height: 780px; ">
-	<div class="canvas-node-label">Angstrum Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/angstrum-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="749c3e165c6aaf48" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Sicarus Incarnon Genesis.md" style="transform: translate(6680px, -5120px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Sicarus Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/sicarus-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="24817d16a97e03db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Zylok Incarnon Genesis.md" style="transform: translate(7260px, -5120px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Zylok Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/zylok-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="335b505fa98966db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Stug Incarnon Genesis.md" style="transform: translate(3580px, -3320px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Stug Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/stug-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="d3b71e7c74d490ab" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Lex Incarnon Genesis.md" style="transform: translate(4160px, -3320px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Lex Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/lex-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="a8e00321abe1015d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Kunai Incarnon Genesis.md" style="transform: translate(4740px, -3320px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Kunai Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/kunai-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="0e42a7357890234c" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Atomos Incarnon Genesis.md" style="transform: translate(5320px, -3320px); width: 560px; height: 780px; ">
-	<div class="canvas-node-label">Atomos Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/atomos-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="a09da5c85e2d7e88" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Bronco Incarnon Genesis.md" style="transform: translate(5900px, -3320px); width: 540px; height: 780px; ">
-	<div class="canvas-node-label">Bronco Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/bronco-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="24677019e744ef78" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Lato Incarnon Genesis.md" style="transform: translate(6460px, -3320px); width: 540px; height: 780px; ">
-	<div class="canvas-node-label">Lato Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/lato-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="cb1e3eff1e2547f2" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Despair Incarnon Genesis.md" style="transform: translate(7040px, -3320px); width: 540px; height: 780px; ">
-	<div class="canvas-node-label">Despair Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/despair-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="fc288a942cc2a40f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Vasto Incarnon Genesis.md" style="transform: translate(3620px, -5120px); width: 580px; height: 780px; ">
-	<div class="canvas-node-label">Vasto Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/vasto-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="ed42e848baf9ec6b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md" style="transform: translate(-4640px, -3800px); width: 560px; height: 860px; ">
+<div class="canvas-node canvas-node-file " data-node-id="ed42e848baf9ec6b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Vectis Incarnon Genesis.md" style="transform: translate(-1980px, -1140px); width: 560px; height: 860px; ">
 	<div class="canvas-node-label">Vectis Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -433,15 +215,7 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="516c602ccaf91c3b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Sybaris Incarnon Genesis.md" style="transform: translate(-4060px, -3800px); width: 560px; height: 860px; ">
-	<div class="canvas-node-label">Sybaris Incarnon Genesis</div>
-	<div class="canvas-node-container">
-		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/sybaris-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
-		</div>
-	</div>
-</div>
-<div class="canvas-node canvas-node-file " data-node-id="4cfff4aa57c93c63" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Strun Incarnon Genesis.md" style="transform: translate(-2840px, -3800px); width: 560px; height: 860px; ">
+<div class="canvas-node canvas-node-file " data-node-id="4cfff4aa57c93c63" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Strun Incarnon Genesis.md" style="transform: translate(-1980px, -140px); width: 560px; height: 860px; ">
 	<div class="canvas-node-label">Strun Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
@@ -449,19 +223,243 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="8f088e60082551b5" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Miter Incarnon Genesis.md" style="transform: translate(-2240px, -3800px); width: 560px; height: 860px; ">
-	<div class="canvas-node-label">Miter Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="335b505fa98966db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Stug Incarnon Genesis.md" style="transform: translate(2300px, 700px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Stug Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/miter-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/stug-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="b1c8f810fc6ec68e" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Primary/Torid Incarnon Genesis.md" style="transform: translate(-1640px, -3800px); width: 560px; height: 858px; ">
-	<div class="canvas-node-label">Torid Incarnon Genesis</div>
+<div class="canvas-node canvas-node-file " data-node-id="cb1e3eff1e2547f2" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Despair Incarnon Genesis.md" style="transform: translate(5740px, 700px); width: 540px; height: 780px; ">
+	<div class="canvas-node-label">Despair Incarnon Genesis</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/incarnon/incarnon-genesis/primary/torid-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/despair-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="fa66f1757e4898f9" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Cestra Incarnon Genesis.md" style="transform: translate(2300px, 1500px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Cestra Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/cestra-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="d3b71e7c74d490ab" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Lex Incarnon Genesis.md" style="transform: translate(2880px, 700px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Lex Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/lex-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a8e00321abe1015d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Kunai Incarnon Genesis.md" style="transform: translate(3460px, 700px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Kunai Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/kunai-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="1a8d975c6ddbde8b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Ceramic Dagger Incarnon Genesis.md" style="transform: translate(6673px, 2532px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Ceramic Dagger Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/ceramic-dagger-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4e73475669078601" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Obex Incarnon Genesis.md" style="transform: translate(6673px, 3492px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Obex Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/obex-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="660bdc67a702fb9c" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Skana Incarnon Genesis.md" style="transform: translate(6673px, 4532px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Skana Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/skana-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c3d2a28781378cac" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Destreza Incarnon Genesis.md" style="transform: translate(6480px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Destreza Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/destreza-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="24677019e744ef78" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Lato Incarnon Genesis.md" style="transform: translate(5180px, 700px); width: 540px; height: 780px; ">
+	<div class="canvas-node-label">Lato Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/lato-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0e42a7357890234c" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Atomos Incarnon Genesis.md" style="transform: translate(4040px, 700px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Atomos Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/atomos-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a09da5c85e2d7e88" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Bronco Incarnon Genesis.md" style="transform: translate(4620px, 700px); width: 540px; height: 780px; ">
+	<div class="canvas-node-label">Bronco Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/bronco-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a576aa621bde8d7b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Hate Incarnon Genesis.md" style="transform: translate(7060px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Hate Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/hate-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="2266115531f2703b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Okina Incarnon Genesis.md" style="transform: translate(7640px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Okina Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/okina-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="ca010337ff37c01b" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Dual Ichor Incarnon Genesis.md" style="transform: translate(8220px, -1140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Dual Ichor Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/dual-ichor-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="41b86335a4a316f4" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Ballistica Incarnon Genesis.md" style="transform: translate(2900px, -1140px); width: 580px; height: 780px; ">
+	<div class="canvas-node-label">Ballistica Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/ballistica-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b4ccc71104486d0d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Furis Incarnon Genesis.md" style="transform: translate(3500px, -1140px); width: 580px; height: 780px; ">
+	<div class="canvas-node-label">Furis Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/furis-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="827fe2a3187c727a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Dual Toxocyst Incarnon Genesis.md" style="transform: translate(4100px, -1140px); width: 580px; height: 780px; ">
+	<div class="canvas-node-label">Dual Toxocyst Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/dual-toxocyst-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="043a264ead4e0844" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Angstrum Incarnon Genesis.md" style="transform: translate(4700px, -1140px); width: 580px; height: 780px; ">
+	<div class="canvas-node-label">Angstrum Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/angstrum-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="fc288a942cc2a40f" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Vasto Incarnon Genesis.md" style="transform: translate(2300px, -1140px); width: 580px; height: 780px; ">
+	<div class="canvas-node-label">Vasto Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/vasto-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e9e95081347bef8a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Nami Solo Incarnon Genesis.md" style="transform: translate(6480px, -140px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Nami Solo Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/nami-solo-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="749c3e165c6aaf48" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Sicarus Incarnon Genesis.md" style="transform: translate(2300px, -220px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Sicarus Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/sicarus-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="24817d16a97e03db" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Zylok Incarnon Genesis.md" style="transform: translate(2880px, -220px); width: 560px; height: 780px; ">
+	<div class="canvas-node-label">Zylok Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/zylok-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7e65f17104809201" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Secondary/Gammacor Incarnon Genesis.md" style="transform: translate(2300px, 2420px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Gammacor Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/secondary/gammacor-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="34003520e0eb4b6a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Anku Incarnon Genesis.md" style="transform: translate(6480px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Anku Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/anku-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0bcd3f09fd13b838" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Bo Incarnon Genesis.md" style="transform: translate(7060px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Bo Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/bo-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7e3dda022e381a1d" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Magistar Incarnon Genesis.md" style="transform: translate(7640px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Magistar Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/magistar-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="5bb72d5c4bd16f7a" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Sibear Incarnon Genesis.md" style="transform: translate(8220px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Sibear Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/sibear-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="cfa559e3efe024b2" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Furax Incarnon Genesis.md" style="transform: translate(8800px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Furax Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/furax-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a878e667c63e0208" data-file-path="Documents/Weapons/Incarnon/Incarnon Genesis/Melee/Ack and Brunt Incarnon Genesis.md" style="transform: translate(9380px, 860px); width: 560px; height: 860px; ">
+	<div class="canvas-node-label">Ack and Brunt Incarnon Genesis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/documents/weapons/incarnon/incarnon-genesis/melee/ack-and-brunt-incarnon-genesis//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>

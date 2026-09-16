@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/coda/","created":"2026-09-06T07:41:29.196-04:00","updated":"2026-09-13T16:23:49.397-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/coda/","created":"2026-09-06T07:41:29.196-04:00","updated":"2026-09-15T15:25:31.778-04:00","dg-note-properties":{"links":["[[Roots/Requiem Weapon Index]]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roots/tenet/","created":"2026-09-06T07:42:54.040-04:00","updated":"2026-09-13T16:24:23.511-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/roots/tenet/","created":"2026-09-06T07:42:54.040-04:00","updated":"2026-09-15T15:25:59.296-04:00","dg-note-properties":{"links":["[[Roots/Requiem Weapon Index]]"]}}
 ---
 
 > [!WARNING] Disclaimer

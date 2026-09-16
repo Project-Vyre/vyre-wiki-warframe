@@ -3,8 +3,8 @@
 ---
 
 - [[Roots/Branches/Primary Weapon Arcanes\|Primary Weapon Arcanes]]
-	- [[Shotgun Arcanes\|Shotgun Arcanes]]
-	- [[Bow Arcanes\|Bow Arcanes]]
+	- [[Roots/Branches/Shotgun Arcanes\|Shotgun Arcanes]]
+	- [[Roots/Branches/Bow Arcanes\|Bow Arcanes]]
 - [[Roots/Branches/Secondary Weapon Arcanes\|Secondary Weapon Arcanes]]
 - [[Roots/Branches/Melee Weapon Arcanes\|Melee Weapon Arcanes]]
 - [[Roots/Branches/Warframe Arcanes\|Warframe Arcanes]]

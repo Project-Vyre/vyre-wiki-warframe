@@ -1,8 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-13T16:17:08.635-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-16T06:12:05.028-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
 ---
 
-[[Roots/Tier Lists\|Tier Lists]]
 # S
 For Warframes that are nearly impossible to die with in most situations **without** the use of Rolling Guard and Last Gasp.
 ## Oraxia
