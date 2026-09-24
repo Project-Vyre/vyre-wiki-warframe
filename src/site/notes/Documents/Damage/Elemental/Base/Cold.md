@@ -13,7 +13,7 @@ All recommended weapon mods that directly add Cold status and damage.
 - [[Documents/Mods/Secondary/Elemental/Deep Freeze\|Deep Freeze]]
 - [[Documents/Mods/Secondary/Elemental/60 60 Mods/Frostbite\|Frostbite]]
 ## Melee
-- [[North Wind\|North Wind]]
+- [[Documents/Mods/Melee/Elemental/North Wind\|North Wind]]
 - [[Documents/Mods/Melee/Elemental/60 60 Mods/Vicious Frost\|Vicious Frost]]
 ## Archgun
 - [[Documents/Mods/Archgun/Primed/Primed Polar Magazine\|Primed Polar Magazine]]

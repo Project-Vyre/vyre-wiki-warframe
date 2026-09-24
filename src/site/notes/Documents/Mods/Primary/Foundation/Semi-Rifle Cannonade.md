@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/documents/mods/primary/foundation/semi-rifle-cannonade/","tags":["Primary","Rifle"],"created":"2026-09-07T08:34:20.569-04:00","updated":"2026-09-13T16:31:07.444-04:00","dg-note-properties":{"tags":["Primary","Rifle"],"links":null}}
+{"dg-publish":true,"permalink":"/documents/mods/primary/foundation/semi-rifle-cannonade/","tags":["Primary","Rifle"],"created":"2026-09-07T08:34:20.569-04:00","updated":"2026-09-16T06:48:47.306-04:00","dg-note-properties":{"tags":["Primary","Rifle"],"links":null}}
 ---
 
+# Rank 5
 - Only compatible with Semi-Auto Trigger.
 - Fire Rate cannot be modified.
 - +240% Damage
