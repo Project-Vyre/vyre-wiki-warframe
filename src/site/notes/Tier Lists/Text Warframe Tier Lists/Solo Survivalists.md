@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-24T09:11:28.905-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-24T09:16:47.620-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
 ---
 
 # S: Practically Immortal
@@ -7,6 +7,7 @@ For Warframes that are nearly impossible to die with in most situations **withou
 - Rolling Guard
 - Last Gasp
 - Vasca Transfusion
+
 ## Oraxia
 
 | Requirements        | Notes  |
@@ -18,6 +19,7 @@ For Warframes that are nearly impossible to die with in most situations **withou
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 ## Revenant
 
 | Requirements        | Notes |
@@ -38,6 +40,7 @@ Sharing is caring.
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 ## Oberon
 
 | Requirements              | Notes |
@@ -57,6 +60,7 @@ Hallowed Ground (2nd ability) provides complete Status immunity with some healin
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
+
 ## Nidus
 
 | Requirements        | Notes                                                                                                                                                                     |
@@ -73,6 +77,7 @@ His 4th ability Ravenous provides Status immunity, thus effectively nullifying t
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
+
 ## Valkyr
 
 | Requirements        | Notes                                       |
@@ -90,8 +95,10 @@ Arcane Persistence with Rage / Hunter Adrenaline makes it a no brainer when it c
 Her high Armor also gives her 75% to 91%+ Damage Reduction.
 
 Her 4th ability Hysteria makes her immune to Status effects, nullifying the weakness of Arcane Persistence.
+
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
+
 ## Nyx
 
 | Requirements        | Notes |
@@ -99,10 +106,12 @@ Acolyte Violence disabling abilities will not result in immediate death due to t
 | Arcane Persistence? | No.   |
 | Arcane Blessing?    | No.   |
 | Assimilate?         | Yes.  |
+
 Assimilate for Nyx's 4th ability, Absorb, effectively makes her immortal until she touches a Nullifier or gets her abilities disabled.
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 # A: Immortal when Actively Played
 Requires some attentiveness to stay alive.
 
@@ -113,8 +122,10 @@ Requires some attentiveness to stay alive.
 | Arcane Persistence? | Ye                                                                                                                                                                              |
 | Arcane Blessing?    |                                                                                                                                                                                 |
 | Dread Ward?       Yes, but it's difficult to trigger as your own weapons and squadmates will kill enemies before you can whittle the enemy health to 40% to execute them to trigger the augment. lth  |
+
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 ## Sirius & Orion
 Switching between either of them on ability cast makes you invulnerable for a short period of time. Chaining this effectively makes you invulnerable until you run out of energy and/or your abilities get disabled by a Nullifier and/or Acolyte Violence.
 
@@ -123,13 +134,16 @@ Acolyte Violence disabling abilities will result in death if not immediately dis
 
 ## Atlas
 Landslide effectively makes Atlas invulnerable to damage and doesn't need energy when accompanied by its augment.
+
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 ## Wukong
 His 3rd ability, Defy, provides brief invulnerability with no cooldown until you run out of energy or get your abilities disabled.
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+
 # B - F
 Everyone else.
 - **Invisibility is not invulnerability**. You will die from some offshoot AoE attack somewhere where you're not looking.
