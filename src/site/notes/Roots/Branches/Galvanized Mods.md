@@ -6,21 +6,21 @@
 # Primary
 
 ## Rifle
-- [[Documents/Mods/Primary/Galvanized/Galvanized Aptitude\|Galvanized Aptitude]]
-- [[Documents/Mods/Primary/Galvanized/Galvanized Chamber\|Galvanized Chamber]]
-- [[Documents/Mods/Primary/Galvanized/Galvanized Scope\|Galvanized Scope]]
+- [[Mods/Primary/Galvanized/Galvanized Aptitude\|Galvanized Aptitude]]
+- [[Mods/Primary/Galvanized/Galvanized Chamber\|Galvanized Chamber]]
+- [[Mods/Primary/Galvanized/Galvanized Scope\|Galvanized Scope]]
 
 ## Shotgun
-- [[Documents/Mods/Primary/Galvanized/Galvanized Hell\|Galvanized Hell]]
-- [[Documents/Mods/Primary/Galvanized/Galvanized Acceleration\|Galvanized Acceleration]]
-- [[Documents/Mods/Primary/Galvanized/Galvanized Savvy\|Galvanized Savvy]]
+- [[Mods/Primary/Galvanized/Galvanized Hell\|Galvanized Hell]]
+- [[Mods/Primary/Galvanized/Galvanized Acceleration\|Galvanized Acceleration]]
+- [[Mods/Primary/Galvanized/Galvanized Savvy\|Galvanized Savvy]]
 
 # Secondary
-- [[Documents/Mods/Secondary/Galvanized/Galvanized Crosshairs\|Galvanized Crosshairs]]
-- [[Documents/Mods/Secondary/Galvanized/Galvanized Diffusion\|Galvanized Diffusion]]
-- [[Documents/Mods/Secondary/Galvanized/Galvanized Shot\|Galvanized Shot]]
+- [[Mods/Secondary/Galvanized/Galvanized Crosshairs\|Galvanized Crosshairs]]
+- [[Mods/Secondary/Galvanized/Galvanized Diffusion\|Galvanized Diffusion]]
+- [[Mods/Secondary/Galvanized/Galvanized Shot\|Galvanized Shot]]
 
 # Melee
-- [[Documents/Mods/Melee/Galvanized/Galvanized Elementalist\|Galvanized Elementalist]]
-- [[Documents/Mods/Melee/Galvanized/Galvanized Steel\|Galvanized Steel]]
-- [[Documents/Mods/Melee/Galvanized/Galvanized Reflex\|Galvanized Reflex]]
+- [[Mods/Melee/Galvanized/Galvanized Elementalist\|Galvanized Elementalist]]
+- [[Mods/Melee/Galvanized/Galvanized Steel\|Galvanized Steel]]
+- [[Mods/Melee/Galvanized/Galvanized Reflex\|Galvanized Reflex]]

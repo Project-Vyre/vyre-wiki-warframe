@@ -6,16 +6,16 @@
 - Does not require additional material to craft.
 # Primary
 ## Rifle
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Primary/Phenmor\|Phenmor]]
+- [[Weapons/Incarnon/Innate Incarnon/Primary/Phenmor\|Phenmor]]
 ## Shotgun
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Primary/Felarx\|Felarx]]
+- [[Weapons/Incarnon/Innate Incarnon/Primary/Felarx\|Felarx]]
 
 # Secondary
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Secondary/Laetum\|Laetum]]
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Secondary/Onos\|Onos]]
+- [[Weapons/Incarnon/Innate Incarnon/Secondary/Laetum\|Laetum]]
+- [[Weapons/Incarnon/Innate Incarnon/Secondary/Onos\|Onos]]
 
 # Melee
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Melee/Innodem\|Innodem]]
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Melee/Praedos\|Praedos]]
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Melee/Ruvox\|Ruvox]]
-- [[Documents/Weapons/Incarnon/Innate Incarnon/Melee/Thalys\|Thalys]]
+- [[Weapons/Incarnon/Innate Incarnon/Melee/Innodem\|Innodem]]
+- [[Weapons/Incarnon/Innate Incarnon/Melee/Praedos\|Praedos]]
+- [[Weapons/Incarnon/Innate Incarnon/Melee/Ruvox\|Ruvox]]
+- [[Weapons/Incarnon/Innate Incarnon/Melee/Thalys\|Thalys]]

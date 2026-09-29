@@ -3,6 +3,6 @@
 ---
 
 All Cannonade mods add a base damage boost higher than their base counterparts such as Serration, Hornet Strike and Point Blank in addition to adding Punch Through and locking a weapon's fire rate. Useful for negating the Fire Rate penalty that comes with using certain Corrupted mods.
-- [[Documents/Mods/Primary/Foundation/Semi-Rifle Cannonade\|Semi-Rifle Cannonade]]
-- [[Documents/Mods/Primary/Foundation/Semi-Shotgun Cannonade\|Semi-Shotgun Cannonade]]
-- [[Documents/Mods/Secondary/Foundation/Semi-Pistol Cannonade\|Semi-Pistol Cannonade]]
+- [[Mods/Primary/Foundation/Semi-Rifle Cannonade\|Semi-Rifle Cannonade]]
+- [[Mods/Primary/Foundation/Semi-Shotgun Cannonade\|Semi-Shotgun Cannonade]]
+- [[Mods/Secondary/Foundation/Semi-Pistol Cannonade\|Semi-Pistol Cannonade]]

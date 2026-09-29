@@ -4,26 +4,26 @@
 
 Everything related to Status Effects.
 # Physical
-- [[Documents/Damage/Physical/Impact\|Impact]]
-- [[Documents/Damage/Physical/Puncture\|Puncture]]
-- [[Documents/Damage/Physical/Slash\|Slash]]
+- [[Damage Types/Physical/Impact\|Impact]]
+- [[Damage Types/Physical/Puncture\|Puncture]]
+- [[Damage Types/Physical/Slash\|Slash]]
 # Elemental
 Separate from physical status effects.
 
 ## Base Elements
-- [[Documents/Damage/Elemental/Base/Cold\|Cold]]
-- [[Documents/Damage/Elemental/Base/Electricity\|Electricity]]
-- [[Documents/Damage/Elemental/Base/Heat\|Heat]]
-- [[Documents/Damage/Elemental/Base/Toxin\|Toxin]]
+- [[Damage Types/Elemental/Base/Cold\|Cold]]
+- [[Damage Types/Elemental/Base/Electricity\|Electricity]]
+- [[Damage Types/Elemental/Base/Heat\|Heat]]
+- [[Damage Types/Elemental/Base/Toxin\|Toxin]]
 
 ## Combined Elements
-- [[Documents/Damage/Elemental/Combined/Blast\|Blast]]
-- [[Documents/Damage/Elemental/Combined/Corrosive\|Corrosive]]
-- [[Documents/Damage/Elemental/Combined/Gas\|Gas]]
-- [[Documents/Damage/Elemental/Combined/Magnetic\|Magnetic]]
-- [[Documents/Damage/Elemental/Combined/Radiation\|Radiation]]
-- [[Documents/Damage/Elemental/Combined/Viral\|Viral]]
+- [[Damage Types/Elemental/Combined/Blast\|Blast]]
+- [[Damage Types/Elemental/Combined/Corrosive\|Corrosive]]
+- [[Damage Types/Elemental/Combined/Gas\|Gas]]
+- [[Damage Types/Elemental/Combined/Magnetic\|Magnetic]]
+- [[Damage Types/Elemental/Combined/Radiation\|Radiation]]
+- [[Damage Types/Elemental/Combined/Viral\|Viral]]
 
 # Special
-- [[Documents/Damage/Special/Tau\|Tau]]
-- [[Documents/Damage/Special/Void\|Void]]
+- [[Damage Types/Special/Tau\|Tau]]
+- [[Damage Types/Special/Void\|Void]]

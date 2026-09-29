@@ -15,7 +15,7 @@ For Warframes that are nearly impossible to die with in most situations **withou
 | Arcane Persistence? | Yes.   |
 | Arcane Blessing?    | Maybe. |
 
-[[Documents/Arcanes/Warframe Arcanes/Arcane Persistence\|Arcane Persistence]] used in conjunction with her 4th ability makes her immune to status effects, which consequently renders Magnetic status effects null. For context, being inflicted with Magnetic status disables Arcane Persistence's damage cap of 500 damage per second.
+[[Arcanes/Warframe Arcanes/Arcane Persistence\|Arcane Persistence]] used in conjunction with her 4th ability makes her immune to status effects, which consequently renders Magnetic status effects null. For context, being inflicted with Magnetic status disables Arcane Persistence's damage cap of 500 damage per second.
 
 > [!WARNING] How about Acolyte Violence's Ability Nullification?
 > Acolyte Violence disabling abilities will result in death if not immediately dispatched.
@@ -55,7 +55,7 @@ Post rework Oberon is *the* immortal cow, deer or... bison? I don't know. Regard
 >[!QUOTE] Passive
 >*Oberon grants **Righteous Negation** to himself and his allies in Affinity Range when he collects Health Orbs, protecting players against the next instance of damage. Stacks up to 3 times.*
 
-Paired with [[Documents/Arcanes/Warframe Arcanes/Arcane Universal Fallout\|Arcane Universal Fallout]] and his 4th ability Reckoning to encourage Health Orbs to drop by 50% makes his passive trivial to activate and provide Revenant like immortality to himself and squadmates.
+Paired with [[Arcanes/Warframe Arcanes/Arcane Universal Fallout\|Arcane Universal Fallout]] and his 4th ability Reckoning to encourage Health Orbs to drop by 50% makes his passive trivial to activate and provide Revenant like immortality to himself and squadmates.
 
 Hallowed Ground (2nd ability) provides complete Status immunity with some healing.
 
@@ -67,7 +67,7 @@ Hallowed Ground (2nd ability) provides complete Status immunity with some healin
 | Requirements        | Notes                                                                                                                                                                     |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Arcane Persistence? | Yes. Mandatory in order to not be one shot.                                                                                                                               |
-| Arcane Blessing?    | Depends on if you need more Health for [[Documents/Arcanes/Warframe Arcanes/Arcane Bellicose\|Arcane Bellicose]] to be topped up to 72%. However, Nidus can naturally reach 3K Health with all 3 Umbral mods and Primed Vigor. |
+| Arcane Blessing?    | Depends on if you need more Health for [[Arcanes/Warframe Arcanes/Arcane Bellicose\|Arcane Bellicose]] to be topped up to 72%. However, Nidus can naturally reach 3K Health with all 3 Umbral mods and Primed Vigor. |
 
 His Passive by default makes him practically immortal considering enemies are constantly spawning. 
 
@@ -124,12 +124,12 @@ Requires some attentiveness to stay alive.
 | Arcane Persistence? | Not mandatory. |
 | Arcane Blessing?    | Not mandatory. |
 | Arcane Circumvent?  | Yes.           |
-See the [[Documents/Warframes/Banshee#Solo Survivalist\|Banshee -> Solo Survivalist]] section for an explanation.
+See the [[Warframes/Banshee#Solo Survivalist\|Banshee -> Solo Survivalist]] section for an explanation.
 
 > [!WARNING] How about Acolyte Violence's Ability Nullification?
 > So... consider the following:
 > - [[Sonic Siphon\|Sonic Siphon]]'s active Armor increase is **not** nullified.
-> - [[Documents/Mods/Warframe/Adaptation\|Adaptation]]
+> - [[Mods/Warframe/Adaptation\|Adaptation]]
 ## Garuda
 
 | Requirements        | Notes                                                                                                                                                                          |

@@ -4,5 +4,5 @@
 
 Sorted in alphabetical order.
 
-- [[Documents/Warframes/Ash\|Ash]]
-- [[Documents/Warframes/Atlas\|Atlas]]
+- [[Warframes/Ash\|Ash]]
+- [[Warframes/Atlas\|Atlas]]

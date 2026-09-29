@@ -22,7 +22,7 @@ This is CelestialAbyss's Obsidian Vault for Warframe. Its purpose is to serve as
 
 # To-Do List
 - [x] Banshee
-- [ ] Make the mods have consistent displayed information such as Rank, Drain, Polarity. See [[Documents/Mods/Warframe/Adaptation\|Adaptation]], [[Documents/Mods/Warframe/Rage\|Rage]] and [[Documents/Mods/Warframe/Primed/Primed Flow\|Primed Flow]] as reference. Proposed polarity color (Inkscape): `008cffff`
+- [ ] Make the mods have consistent displayed information such as Rank, Drain, Polarity. See [[Mods/Warframe/Adaptation\|Adaptation]], [[Mods/Warframe/Rage\|Rage]] and [[Mods/Warframe/Primed/Primed Flow\|Primed Flow]] as reference. Proposed polarity color (Inkscape): `008cffff`
 
 ---
 # Formatting Guidelines

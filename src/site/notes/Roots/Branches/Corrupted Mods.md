@@ -4,14 +4,14 @@
 
 # Primary
 ## Rifle
-- [[Documents/Mods/Primary/Corrupted/Critical Delay\|Critical Delay]]: Critical Chance increase at the cost of some fire rate.
-- [[Documents/Mods/Primary/Corrupted/Vile Precision\|Vile Precision]]: Recoil management at the cost of some fire rate.
+- [[Mods/Primary/Corrupted/Critical Delay\|Critical Delay]]: Critical Chance increase at the cost of some fire rate.
+- [[Mods/Primary/Corrupted/Vile Precision\|Vile Precision]]: Recoil management at the cost of some fire rate.
 ### Sniper
 
 ## Shotgun
-- [[Documents/Mods/Primary/Corrupted/Critical Deceleration\|Critical Deceleration]]
+- [[Mods/Primary/Corrupted/Critical Deceleration\|Critical Deceleration]]
 # Secondary
-- [[Documents/Mods/Secondary/Corrupted/Creeping Bullseye\|Creeping Bullseye]]
+- [[Mods/Secondary/Corrupted/Creeping Bullseye\|Creeping Bullseye]]
 # Melee
 # Warframe
-- [[Documents/Mods/Warframe/Corrupted/Blind Rage\|Blind Rage]]
+- [[Mods/Warframe/Corrupted/Blind Rage\|Blind Rage]]

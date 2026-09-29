@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tier-lists/canvas-weapon-tier-lists/kuva-weapon-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:30:29.446-04:00","updated":"2026-09-16T06:11:46.614-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+{"dg-publish":true,"permalink":"/tier-lists/canvas-weapon-tier-lists/kuva-weapon-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:30:29.446-04:00","updated":"2026-09-29T10:26:29.002-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
 ---
 
 <div id="Kuva_Weapon_Tier_Listcanvas" class="canvas-wrapper hide">
@@ -63,51 +63,51 @@
 <div class="canvas-node canvas-node-group has-color" data-node-id="e5efed6f0aa5f237" style="transform: translate(2640px, -320px); width: 740px; height: 480px; --canvas-color: #e9973f; ">
 	<div class="canvas-node-label">A</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="953c813af17bbb63" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Sobek.md" style="transform: translate(-1440px, -720px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="953c813af17bbb63" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Sobek.md" style="transform: translate(-1440px, -720px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Sobek</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-sobek//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-sobek//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="91ab667b91ad3bad" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Hek.md" style="transform: translate(-1000px, -720px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="91ab667b91ad3bad" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Hek.md" style="transform: translate(-1000px, -720px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Hek</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-hek//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-hek//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="23bcbc44fd07d3b6" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Tonkor.md" style="transform: translate(-160px, 320px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="23bcbc44fd07d3b6" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Tonkor.md" style="transform: translate(-160px, 320px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Tonkor</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-tonkor//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-tonkor//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="dafa5d0f962be0d1" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Quartakk.md" style="transform: translate(1160px, 360px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="dafa5d0f962be0d1" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Quartakk.md" style="transform: translate(1160px, 360px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Quartakk</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-quartakk//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-quartakk//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="edae0dfaf80bce09" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Drakgoon.md" style="transform: translate(-1480px, 1040px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="edae0dfaf80bce09" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Drakgoon.md" style="transform: translate(-1480px, 1040px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Drakgoon</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-drakgoon//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-drakgoon//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="40697eb25ebff09d" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Karak.md" style="transform: translate(-1040px, 1040px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="40697eb25ebff09d" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Karak.md" style="transform: translate(-1040px, 1040px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Karak</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-karak//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-karak//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
@@ -118,99 +118,99 @@
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="20e39a28694df52b" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Ogris.md" style="transform: translate(-1420px, 320px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="20e39a28694df52b" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Ogris.md" style="transform: translate(-1420px, 320px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Ogris</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-ogris//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-ogris//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="bcca401951c436d9" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Chakkhurr.md" style="transform: translate(320px, 360px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="bcca401951c436d9" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Chakkhurr.md" style="transform: translate(320px, 360px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Chakkhurr</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-chakkhurr//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-chakkhurr//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="de8945596a12d2d0" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Hind.md" style="transform: translate(740px, 360px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="de8945596a12d2d0" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Hind.md" style="transform: translate(740px, 360px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Hind</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-hind//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-hind//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="ac638196447cb999" data-file-path="Documents/Weapons/Requiem/Kuva/Secondary/Kuva Kraken.md" style="transform: translate(2700px, 940px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="ac638196447cb999" data-file-path="Weapons/Requiem/Kuva/Secondary/Kuva Kraken.md" style="transform: translate(2700px, 940px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Kraken</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/secondary/kuva-kraken//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/secondary/kuva-kraken//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="d4a27e7b2c011972" data-file-path="Documents/Weapons/Requiem/Kuva/Secondary/Kuva Brakk.md" style="transform: translate(3140px, 940px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="d4a27e7b2c011972" data-file-path="Weapons/Requiem/Kuva/Secondary/Kuva Brakk.md" style="transform: translate(3140px, 940px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Brakk</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/secondary/kuva-brakk//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/secondary/kuva-brakk//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="d29be9fda7fbd89d" data-file-path="Documents/Weapons/Requiem/Kuva/Secondary/Kuva Nukor.md" style="transform: translate(2683px, -840px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="d29be9fda7fbd89d" data-file-path="Weapons/Requiem/Kuva/Secondary/Kuva Nukor.md" style="transform: translate(2683px, -840px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Nukor</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/secondary/kuva-nukor//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/secondary/kuva-nukor//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="7654d0efdf9b2c6e" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Bramma.md" style="transform: translate(-1000px, 320px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="7654d0efdf9b2c6e" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Bramma.md" style="transform: translate(-1000px, 320px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Bramma</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-bramma//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-bramma//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="22dbaa7c9b7698e5" data-file-path="Documents/Weapons/Requiem/Kuva/Primary/Kuva Zarr.md" style="transform: translate(-580px, 320px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="22dbaa7c9b7698e5" data-file-path="Weapons/Requiem/Kuva/Primary/Kuva Zarr.md" style="transform: translate(-580px, 320px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Zarr</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/primary/kuva-zarr//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/primary/kuva-zarr//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="28db25db3e9322c1" data-file-path="Documents/Weapons/Requiem/Kuva/Secondary/Kuva Twin Stubbas.md" style="transform: translate(2680px, -280px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="28db25db3e9322c1" data-file-path="Weapons/Requiem/Kuva/Secondary/Kuva Twin Stubbas.md" style="transform: translate(2680px, -280px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Twin Stubbas</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/secondary/kuva-twin-stubbas//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/secondary/kuva-twin-stubbas//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="23b706eca859295d" data-file-path="Documents/Weapons/Requiem/Kuva/Secondary/Kuva Seer.md" style="transform: translate(2680px, 260px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="23b706eca859295d" data-file-path="Weapons/Requiem/Kuva/Secondary/Kuva Seer.md" style="transform: translate(2680px, 260px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Seer</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/secondary/kuva-seer//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/secondary/kuva-seer//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="42ef9f17cb9ef1da" data-file-path="Documents/Weapons/Requiem/Kuva/Melee/Kuva Shildeg.md" style="transform: translate(920px, 2840px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="42ef9f17cb9ef1da" data-file-path="Weapons/Requiem/Kuva/Melee/Kuva Shildeg.md" style="transform: translate(920px, 2840px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Shildeg</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/melee/kuva-shildeg//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/melee/kuva-shildeg//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
-<div class="canvas-node canvas-node-file " data-node-id="32c29a2213776815" data-file-path="Documents/Weapons/Requiem/Kuva/Melee/Kuva Ghoulsaw.md" style="transform: translate(920px, 3720px); width: 400px; height: 400px; ">
+<div class="canvas-node canvas-node-file " data-node-id="32c29a2213776815" data-file-path="Weapons/Requiem/Kuva/Melee/Kuva Ghoulsaw.md" style="transform: translate(920px, 3720px); width: 400px; height: 400px; ">
 	<div class="canvas-node-label">Kuva Ghoulsaw</div>
 	<div class="canvas-node-container">
 		<div class="canvas-node-content markdown-embed">
-			<iframe src="/documents/weapons/requiem/kuva/melee/kuva-ghoulsaw//" class="canvas-file-iframe" loading="lazy"></iframe>
+			<iframe src="/weapons/requiem/kuva/melee/kuva-ghoulsaw//" class="canvas-file-iframe" loading="lazy"></iframe>
 		</div>
 	</div>
 </div>
