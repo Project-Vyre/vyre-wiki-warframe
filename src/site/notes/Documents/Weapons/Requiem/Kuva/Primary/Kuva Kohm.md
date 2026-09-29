@@ -1,4 +1,0 @@
----
-{"dg-publish":true,"permalink":"/documents/weapons/requiem/kuva/primary/kuva-kohm/","tags":["Primary","Shotgun"],"created":"2026-09-06T08:44:04.136-04:00","updated":"2026-09-13T16:37:08.538-04:00","dg-note-properties":{"tags":["Primary","Shotgun"],"links":["[[Roots/Kuva]]"]}}
----
-
