@@ -1,0 +1,488 @@
+{
+  "/": [
+    "Home",
+    "Documents",
+    "Tier Lists",
+    "Roots"
+  ],
+  "/Documents": [
+    "Arcanes",
+    "Damage",
+    "Mods",
+    "Warframes",
+    "Weapons"
+  ],
+  "/Documents/Arcanes": [
+    "Melee Weapon Arcanes",
+    "Primary Weapon Arcanes",
+    "Secondary Weapon Arcanes",
+    "Warframe Arcanes"
+  ],
+  "/Documents/Arcanes/Melee Weapon Arcanes": [
+    "Melee Exposure",
+    "Melee Influence"
+  ],
+  "/Documents/Arcanes/Primary Weapon Arcanes": [
+    "Primary Compression",
+    "Primary Deadhead",
+    "Primary Debilitate"
+  ],
+  "/Documents/Arcanes/Secondary Weapon Arcanes": [
+    "Conjunction Voltage",
+    "Secondary Deadhead",
+    "Secondary Encumber"
+  ],
+  "/Documents/Arcanes/Warframe Arcanes": [
+    "Arcane Battery",
+    "Arcane Bellicose",
+    "Arcane Blessing",
+    "Arcane Circumvent",
+    "Arcane Hot Shot",
+    "Arcane Persistence",
+    "Arcane Reaper",
+    "Arcane Sculptor",
+    "Arcane Universal Fallout",
+    "Molt Augmented"
+  ],
+  "/Documents/Damage": [
+    "Elemental",
+    "Physical",
+    "Special"
+  ],
+  "/Documents/Damage/Elemental": [
+    "Base",
+    "Combined"
+  ],
+  "/Documents/Damage/Elemental/Base": [
+    "Cold",
+    "Electricity",
+    "Heat",
+    "Toxin"
+  ],
+  "/Documents/Damage/Elemental/Combined": [
+    "Blast",
+    "Corrosive",
+    "Gas",
+    "Magnetic",
+    "Radiation",
+    "Viral"
+  ],
+  "/Documents/Damage/Physical": [
+    "Impact",
+    "Puncture",
+    "Slash"
+  ],
+  "/Documents/Damage/Special": [
+    "Tau",
+    "True Damage",
+    "Void"
+  ],
+  "/Documents/Mods": [
+    "Archgun",
+    "Melee",
+    "Primary",
+    "Secondary",
+    "Warframe"
+  ],
+  "/Documents/Mods/Archgun": [
+    "60 60 Mods"
+  ],
+  "/Documents/Mods/Archgun/60 60 Mods": [
+    "Hypothermic Shell"
+  ],
+  "/Documents/Mods/Melee": [
+    "Elemental",
+    "Galvanized",
+    "Primed",
+    "Blood Rush",
+    "Condition Overload",
+    "Weeping Wounds"
+  ],
+  "/Documents/Mods/Melee/Elemental": [
+    "Focus Energy",
+    "Focus Radon",
+    "Molten Impact",
+    "North Wind",
+    "Shocking Touch"
+  ],
+  "/Documents/Mods/Melee/Galvanized": [
+    "Galvanized Elementalist",
+    "Galvanized Reflex",
+    "Galvanized Steel"
+  ],
+  "/Documents/Mods/Melee/Primed": [
+    "Primed Pressure Point"
+  ],
+  "/Documents/Mods/Primary": [
+    "Corrupted",
+    "Elemental",
+    "Foundation",
+    "Galvanized",
+    "Nightmare",
+    "Primed",
+    "Target Acquired"
+  ],
+  "/Documents/Mods/Primary/Corrupted": [
+    "Critical Deceleration",
+    "Critical Delay",
+    "Vile Precision"
+  ],
+  "/Documents/Mods/Primary/Elemental": [
+    "60 60 Mods",
+    "Rifle",
+    "Shotgun"
+  ],
+  "/Documents/Mods/Primary/Elemental/60 60 Mods": [
+    "Rifle",
+    "Shotgun"
+  ],
+  "/Documents/Mods/Primary/Elemental/60 60 Mods/Rifle": [
+    "High Voltage",
+    "Malignant Force",
+    "Rime Rounds",
+    "Thermite Rounds"
+  ],
+  "/Documents/Mods/Primary/Elemental/60 60 Mods/Shotgun": [
+    "Frigid Blast",
+    "Scattering Inferno",
+    "Shell Shock",
+    "Toxic Barrage"
+  ],
+  "/Documents/Mods/Primary/Elemental/Rifle": [
+    "Hellfire",
+    "Infected Clip",
+    "Stormbringer"
+  ],
+  "/Documents/Mods/Primary/Elemental/Shotgun": [
+    "Charged Shell",
+    "Chilling Grasp",
+    "Contagious Spread",
+    "Incendiary Coat"
+  ],
+  "/Documents/Mods/Primary/Foundation": [
+    "Blunderbuss",
+    "Point Strike",
+    "Semi-Rifle Cannonade",
+    "Semi-Shotgun Cannonade",
+    "Serration",
+    "Vital Sense"
+  ],
+  "/Documents/Mods/Primary/Galvanized": [
+    "Galvanized Acceleration",
+    "Galvanized Aptitude",
+    "Galvanized Chamber",
+    "Galvanized Hell",
+    "Galvanized Savvy",
+    "Galvanized Scope"
+  ],
+  "/Documents/Mods/Primary/Nightmare": [
+    "Blaze",
+    "Hammer Shot"
+  ],
+  "/Documents/Mods/Primary/Primed": [
+    "Rifle",
+    "Shotgun",
+    "Primed Point Blank",
+    "Primed Ravage",
+    "Primed Rifle Ammo Mutation",
+    "Primed Shotgun Ammo Mutation",
+    "Primed Sniper Ammo Mutation"
+  ],
+  "/Documents/Mods/Primary/Primed/Rifle": [
+    "Primed Cryo Rounds",
+    "Primed Firestorm"
+  ],
+  "/Documents/Mods/Primary/Primed/Shotgun": [
+    "Primed Charged Shell",
+    "Primed Chilling Grasp"
+  ],
+  "/Documents/Mods/Secondary": [
+    "Corrupted",
+    "Elemental",
+    "Foundation",
+    "Galvanized",
+    "Nightmare",
+    "Primed"
+  ],
+  "/Documents/Mods/Secondary/Corrupted": [
+    "Creeping Bullseye"
+  ],
+  "/Documents/Mods/Secondary/Elemental": [
+    "60 60 Mods",
+    "Deep Freeze",
+    "Pistol Elementalist"
+  ],
+  "/Documents/Mods/Secondary/Elemental/60 60 Mods": [
+    "Frostbite",
+    "Jolt",
+    "Pistol Pestilence",
+    "Scorch"
+  ],
+  "/Documents/Mods/Secondary/Foundation": [
+    "Hornet Strike",
+    "Semi-Pistol Cannonade"
+  ],
+  "/Documents/Mods/Secondary/Galvanized": [
+    "Galvanized Crosshairs",
+    "Galvanized Diffusion",
+    "Galvanized Shot"
+  ],
+  "/Documents/Mods/Secondary/Nightmare": [
+    "Lethal Torrent"
+  ],
+  "/Documents/Mods/Secondary/Primed": [
+    "Primed Convulsion",
+    "Primed Heated Charge",
+    "Primed Pistol Gambit",
+    "Primed Target Cracker"
+  ],
+  "/Documents/Mods/Warframe": [
+    "Corrupted",
+    "Primed",
+    "Adaptation",
+    "Rage",
+    "Rolling Guard"
+  ],
+  "/Documents/Mods/Warframe/Corrupted": [
+    "Blind Rage",
+    "Catalyzing Shields",
+    "Fleeting Expertise",
+    "Narrow Minded",
+    "Overextended",
+    "Transient Fortitude"
+  ],
+  "/Documents/Mods/Warframe/Primed": [
+    "Primed Flow"
+  ],
+  "/Documents/Warframes": [
+    "Banshee"
+  ],
+  "/Documents/Weapons": [
+    "Incarnon",
+    "Requiem",
+    "Standard"
+  ],
+  "/Documents/Weapons/Incarnon": [
+    "Incarnon Genesis",
+    "Innate Incarnon"
+  ],
+  "/Documents/Weapons/Incarnon/Incarnon Genesis": [
+    "Melee",
+    "Primary",
+    "Secondary"
+  ],
+  "/Documents/Weapons/Incarnon/Incarnon Genesis/Melee": [
+    "Ack and Brunt Incarnon Genesis",
+    "Anku Incarnon Genesis",
+    "Bo Incarnon Genesis",
+    "Ceramic Dagger Incarnon Genesis",
+    "Destreza Incarnon Genesis",
+    "Dual Ichor Incarnon Genesis",
+    "Furax Incarnon Genesis",
+    "Hate Incarnon Genesis",
+    "Magistar Incarnon Genesis",
+    "Nami Solo Incarnon Genesis",
+    "Obex Incarnon Genesis",
+    "Okina Incarnon Genesis",
+    "Sibear Incarnon Genesis",
+    "Skana Incarnon Genesis"
+  ],
+  "/Documents/Weapons/Incarnon/Incarnon Genesis/Primary": [
+    "Boar Incarnon Genesis",
+    "Boltor Incarnon Genesis",
+    "Braton Incarnon Genesis",
+    "Burston Incarnon Genesis",
+    "Dera Incarnon Genesis",
+    "Dread Incarnon Genesis",
+    "Gorgon Incarnon Genesis",
+    "Latron Incarnon Genesis",
+    "Miter Incarnon Genesis",
+    "Paris Incarnon Genesis",
+    "Soma Incarnon Genesis",
+    "Strun Incarnon Genesis",
+    "Sybaris Incarnon Genesis",
+    "Torid Incarnon Genesis",
+    "Vectis Incarnon Genesis"
+  ],
+  "/Documents/Weapons/Incarnon/Incarnon Genesis/Secondary": [
+    "Angstrum Incarnon Genesis",
+    "Atomos Incarnon Genesis",
+    "Ballistica Incarnon Genesis",
+    "Bronco Incarnon Genesis",
+    "Cestra Incarnon Genesis",
+    "Despair Incarnon Genesis",
+    "Dual Toxocyst Incarnon Genesis",
+    "Furis Incarnon Genesis",
+    "Gammacor Incarnon Genesis",
+    "Kunai Incarnon Genesis",
+    "Lato Incarnon Genesis",
+    "Lex Incarnon Genesis",
+    "Sicarus Incarnon Genesis",
+    "Stug Incarnon Genesis",
+    "Vasto Incarnon Genesis",
+    "Zylok Incarnon Genesis"
+  ],
+  "/Documents/Weapons/Incarnon/Innate Incarnon": [
+    "Melee",
+    "Primary",
+    "Secondary"
+  ],
+  "/Documents/Weapons/Incarnon/Innate Incarnon/Melee": [
+    "Innodem",
+    "Praedos",
+    "Ruvox",
+    "Thalys"
+  ],
+  "/Documents/Weapons/Incarnon/Innate Incarnon/Primary": [
+    "Felarx",
+    "Phenmor"
+  ],
+  "/Documents/Weapons/Incarnon/Innate Incarnon/Secondary": [
+    "Laetum",
+    "Onos"
+  ],
+  "/Documents/Weapons/Requiem": [
+    "Coda",
+    "Kuva",
+    "Tenet"
+  ],
+  "/Documents/Weapons/Requiem/Coda": [
+    "Melee",
+    "Primary",
+    "Secondary"
+  ],
+  "/Documents/Weapons/Requiem/Coda/Melee": [
+    "Coda Caustacyst",
+    "Coda Hirudo",
+    "Coda Mire",
+    "Coda Motovore",
+    "Coda Pathocyst"
+  ],
+  "/Documents/Weapons/Requiem/Coda/Primary": [
+    "Coda Bassocyst",
+    "Coda Bubonico",
+    "Coda Hema",
+    "Coda Sporothrix",
+    "Coda Synapse"
+  ],
+  "/Documents/Weapons/Requiem/Coda/Secondary": [
+    "Coda Catabolyst",
+    "Coda Pox",
+    "Coda Tysis",
+    "Dual Coda Torxica"
+  ],
+  "/Documents/Weapons/Requiem/Kuva": [
+    "Archgun",
+    "Melee",
+    "Primary",
+    "Secondary"
+  ],
+  "/Documents/Weapons/Requiem/Kuva/Archgun": [
+    "Kuva Ayanga",
+    "Kuva Grattler"
+  ],
+  "/Documents/Weapons/Requiem/Kuva/Melee": [
+    "Kuva Ghoulsaw",
+    "Kuva Shildeg"
+  ],
+  "/Documents/Weapons/Requiem/Kuva/Primary": [
+    "Kuva Bramma",
+    "Kuva Chakkhurr",
+    "Kuva Drakgoon",
+    "Kuva Hek",
+    "Kuva Hind",
+    "Kuva Karak",
+    "Kuva Kohm",
+    "Kuva Ogris",
+    "Kuva Quartakk",
+    "Kuva Sobek",
+    "Kuva Tonkor",
+    "Kuva Zarr"
+  ],
+  "/Documents/Weapons/Requiem/Kuva/Secondary": [
+    "Kuva Brakk",
+    "Kuva Kraken",
+    "Kuva Nukor",
+    "Kuva Seer",
+    "Kuva Twin Stubbas"
+  ],
+  "/Documents/Weapons/Requiem/Tenet": [
+    "Melee",
+    "Primary",
+    "Secondary"
+  ],
+  "/Documents/Weapons/Requiem/Tenet/Melee": [
+    "Tenet Agendus",
+    "Tenet Exec",
+    "Tenet Grigori",
+    "Tenet Livia"
+  ],
+  "/Documents/Weapons/Requiem/Tenet/Primary": [
+    "Tenet Arca Plasmor",
+    "Tenet Envoy",
+    "Tenet Ferrox",
+    "Tenet Flux Rifle",
+    "Tenet Glaxion",
+    "Tenet Quanta",
+    "Tenet Tetra"
+  ],
+  "/Documents/Weapons/Requiem/Tenet/Secondary": [
+    "Tenet Cycron",
+    "Tenet Detron",
+    "Tenet Diplos",
+    "Tenet Plinx",
+    "Tenet Spirex"
+  ],
+  "/Documents/Weapons/Standard": [
+    "Komorex"
+  ],
+  "/Tier Lists": [
+    "Canvas Weapon Tier Lists",
+    "Text Warframe Tier Lists"
+  ],
+  "/Tier Lists/Canvas Weapon Tier Lists": [
+    "Coda Weapon Tier List",
+    "Incarnon Genesis Tier List",
+    "Innate Incarnon Weapon Tier List",
+    "Kuva Weapon Tier List",
+    "Tenet Weapon Tier List"
+  ],
+  "/Tier Lists/Text Warframe Tier Lists": [
+    "Solo Survivalists"
+  ],
+  "/Roots": [
+    "Branches",
+    "Arcanes",
+    "Coda",
+    "Damage",
+    "Incarnon Genesis",
+    "Incarnon Weapon Index",
+    "Innate Incarnon",
+    "Kuva",
+    "Mods",
+    "Requiem Weapon Index",
+    "Status Effects",
+    "Tenet",
+    "Tier Lists",
+    "Warframes",
+    "Weapons"
+  ],
+  "/Roots/Branches": [
+    "60 60 Mods",
+    "Cannonade Mods",
+    "Corrupted Mods",
+    "Elementalist Mods",
+    "Foundation Mods",
+    "Galvanized Mods",
+    "Incarnon Genesis Melee",
+    "Incarnon Genesis Primary",
+    "Incarnon Genesis Secondary",
+    "Melee Weapon Arcanes",
+    "Nightmare Mods",
+    "Primary Weapon Arcanes",
+    "Primed Mods",
+    "Secondary Weapon Arcanes",
+    "Status Overload",
+    "Warframe Arcanes"
+  ]
+}
