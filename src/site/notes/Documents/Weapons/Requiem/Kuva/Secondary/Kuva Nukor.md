@@ -1,4 +1,0 @@
----
-{"dg-publish":true,"permalink":"/documents/weapons/requiem/kuva/secondary/kuva-nukor/","tags":["Secondary"],"created":"2026-09-06T08:44:40.348-04:00","updated":"2026-09-13T16:37:22.554-04:00","dg-note-properties":{"tags":["Secondary"],"links":["[[Roots/Kuva]]"]}}
----
-
