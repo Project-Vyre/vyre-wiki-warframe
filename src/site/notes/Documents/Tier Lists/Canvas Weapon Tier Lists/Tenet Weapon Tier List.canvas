@@ -1,0 +1,192 @@
+---
+{"dg-publish":true,"permalink":"/documents/tier-lists/canvas-weapon-tier-lists/tenet-weapon-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:30:16.332-04:00","updated":"2026-09-29T10:26:29.009-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+---
+
+<div id="Tenet_Weapon_Tier_Listcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Tenet_Weapon_Tier_Listcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Tenet_Weapon_Tier_Listcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-group has-color" data-node-id="91f9898d70333733" style="transform: translate(-2460px, -2900px); width: 1480px; height: 3260px; --canvas-color: #53dfdd; ">
+	<div class="canvas-node-label">Primary</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="4c0056fbacb8bd44" style="transform: translate(-940px, -2900px); width: 1440px; height: 1160px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">Secondary</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="1c2d4aa53a969337" style="transform: translate(540px, -2900px); width: 960px; height: 1020px;  ">
+	<div class="canvas-node-label">Melee</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="154652c2a5df2da9" style="transform: translate(-2400px, -2300px); width: 1360px; height: 480px; --canvas-color: #e9973f; ">
+	<div class="canvas-node-label">A</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="32c3cc180ec2d6b1" style="transform: translate(-2400px, -2840px); width: 1360px; height: 480px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="e202e77fac896145" style="transform: translate(-2400px, -1760px); width: 1360px; height: 480px; --canvas-color: #e0de71; ">
+	<div class="canvas-node-label">B</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="3048287b112feec6" style="transform: translate(-2400px, -1220px); width: 1360px; height: 480px; --canvas-color: #44cf6e; ">
+	<div class="canvas-node-label">C</div>
+</div>
+<div class="canvas-node canvas-node-group " data-node-id="116079b317e194df" style="transform: translate(-2400px, -180px); width: 1360px; height: 480px;  ">
+	<div class="canvas-node-label">F</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="e39b4e5ba449730d" style="transform: translate(-880px, -2840px); width: 1320px; height: 480px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="ff8ca23c55cf96dc" style="transform: translate(-880px, -2300px); width: 1320px; height: 480px; --canvas-color: #e9973f; ">
+	<div class="canvas-node-label">A</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="40f5fba5ba0b670b" style="transform: translate(-2400px, -680px); width: 1360px; height: 440px; --canvas-color: #53dfdd; ">
+	<div class="canvas-node-label">D</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="0d7b4b4a9b025c84" style="transform: translate(580px, -2860px); width: 880px; height: 440px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="cea81ffb0689d1f9" style="transform: translate(580px, -2360px); width: 880px; height: 440px; --canvas-color: #e9973f; ">
+	<div class="canvas-node-label">A</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c4b24ac7d8d14aa2" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Arca Plasmor.md" style="transform: translate(-2360px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Arca Plasmor</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-arca-plasmor//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="03c45ad697a60980" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Ferrox.md" style="transform: translate(-1920px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Ferrox</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-ferrox//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="454cbb5b5b5100df" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Glaxion.md" style="transform: translate(-1480px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Glaxion</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-glaxion//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="60f85d07318904fa" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Tetra.md" style="transform: translate(-2360px, -2260px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Tetra</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-tetra//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6628c5340d04cd5e" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Quanta.md" style="transform: translate(-2360px, -1720px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Quanta</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-quanta//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="185b315673dfee2e" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Envoy.md" style="transform: translate(-2360px, -1180px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Envoy</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-envoy//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="348b65f5ba4e268b" data-file-path="Weapons/Requiem/Tenet/Primary/Tenet Flux Rifle.md" style="transform: translate(-2360px, -140px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Flux Rifle</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/primary/tenet-flux-rifle//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="de211f6abb9b50a0" data-file-path="Weapons/Requiem/Tenet/Secondary/Tenet Plinx.md" style="transform: translate(-840px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Plinx</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/secondary/tenet-plinx//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="4dc423216e9b017d" data-file-path="Weapons/Requiem/Tenet/Secondary/Tenet Detron.md" style="transform: translate(-420px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Detron</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/secondary/tenet-detron//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6f7a563c5621d7b7" data-file-path="Weapons/Requiem/Tenet/Secondary/Tenet Cycron.md" style="transform: translate(0px, -2800px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Cycron</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/secondary/tenet-cycron//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="a11dfaaa4410f0b9" data-file-path="Weapons/Requiem/Tenet/Secondary/Tenet Spirex.md" style="transform: translate(-840px, -2260px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Spirex</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/secondary/tenet-spirex//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8dc3af347421f070" data-file-path="Weapons/Requiem/Tenet/Secondary/Tenet Diplos.md" style="transform: translate(-420px, -2260px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Diplos</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/secondary/tenet-diplos//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="bf983dcc53ba8f2b" data-file-path="Weapons/Requiem/Tenet/Melee/Tenet Exec.md" style="transform: translate(600px, -2840px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Exec</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/melee/tenet-exec//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="df6901dbef095cbe" data-file-path="Weapons/Requiem/Tenet/Melee/Tenet Grigori.md" style="transform: translate(600px, -2340px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Grigori</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/melee/tenet-grigori//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="be5feec4369347c4" data-file-path="Weapons/Requiem/Tenet/Melee/Tenet Agendus.md" style="transform: translate(1040px, -2840px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Agendus</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/melee/tenet-agendus//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="818adffb09c439a0" data-file-path="Weapons/Requiem/Tenet/Melee/Tenet Livia.md" style="transform: translate(1040px, -2340px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Tenet Livia</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/tenet/melee/tenet-livia//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>

@@ -1,0 +1,98 @@
+---
+{"dg-publish":true,"permalink":"/documents/tier-lists/canvas-weapon-tier-lists/innate-incarnon-weapon-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:32:11.673-04:00","updated":"2026-09-29T10:26:28.991-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+---
+
+<div id="Innate_Incarnon_Weapon_Tier_Listcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Innate_Incarnon_Weapon_Tier_Listcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Innate_Incarnon_Weapon_Tier_Listcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-group has-color" data-node-id="077910b0707bad82" style="transform: translate(-360px, -20px); width: 1840px; height: 1060px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="77df9ca0f24bdce3" style="transform: translate(-360px, 1100px); width: 1840px; height: 520px; --canvas-color: #e9973f; ">
+	<div class="canvas-node-label">A</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="5dc057559322ed49" style="transform: translate(-360px, 1680px); width: 1840px; height: 520px; --canvas-color: #e0de71; ">
+	<div class="canvas-node-label">B</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f8651fde707f10f3" data-file-path="Weapons/Incarnon/Innate Incarnon/Melee/Praedos.md" style="transform: translate(-300px, 1160px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Praedos</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/melee/praedos//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b350c931cb8e5aa0" data-file-path="Weapons/Incarnon/Innate Incarnon/Melee/Innodem.md" style="transform: translate(-300px, 1740px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Innodem</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/melee/innodem//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="dce904b93f7137e4" data-file-path="Weapons/Incarnon/Innate Incarnon/Primary/Felarx.md" style="transform: translate(-300px, 40px); width: 400px; height: 430px; ">
+	<div class="canvas-node-label">Felarx</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/primary/felarx//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="17110f75e6826ce8" data-file-path="Weapons/Incarnon/Innate Incarnon/Primary/Phenmor.md" style="transform: translate(140px, 40px); width: 400px; height: 430px; ">
+	<div class="canvas-node-label">Phenmor</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/primary/phenmor//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="340468ee8491cafe" data-file-path="Weapons/Incarnon/Innate Incarnon/Secondary/Laetum.md" style="transform: translate(580px, 40px); width: 400px; height: 430px; ">
+	<div class="canvas-node-label">Laetum</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/secondary/laetum//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="8d1b44cae4c4c118" data-file-path="Weapons/Incarnon/Innate Incarnon/Melee/Ruvox.md" style="transform: translate(1020px, 40px); width: 400px; height: 430px; ">
+	<div class="canvas-node-label">Ruvox</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/melee/ruvox//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="9c965d256723fa0e" data-file-path="Weapons/Incarnon/Innate Incarnon/Melee/Thalys.md" style="transform: translate(140px, 520px); width: 400px; height: 460px; ">
+	<div class="canvas-node-label">Thalys</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/melee/thalys//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="45c29ede3a754d98" data-file-path="Weapons/Incarnon/Innate Incarnon/Secondary/Onos.md" style="transform: translate(-300px, 520px); width: 400px; height: 460px; ">
+	<div class="canvas-node-label">Onos</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/incarnon/innate-incarnon/secondary/onos//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>

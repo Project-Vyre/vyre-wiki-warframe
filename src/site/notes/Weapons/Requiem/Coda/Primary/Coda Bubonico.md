@@ -12,4 +12,4 @@
 
 | [[Mods/Primary/Primed/Shotgun/Primed Charged Shell\|Primed Charged Shell]] | [[Mods/Primary/Galvanized/Galvanized Hell\|Galvanized Hell]] | [[Mods/Primary/Elemental/Shotgun/Contagious Spread\|Contagious Spread]]     | [[Mods/Primary/Galvanized/Galvanized Savvy\|Galvanized Savvy]] |
 | ------------------------ | ------------------- | ------------------------- | -------------------- |
-| [[Mods/Primary/Primed/Primed Point Blank\|Primed Point Blank]]   | [[Mods/Primary/Primed/Primed Ravage\|Primed Ravage]]   | [[Mods/Primary/Corrupted/Critical Deceleration\|Critical Deceleration]] | [[Magnetic Strafe\|Magnetic Strafe]]  |
+| [[Mods/Primary/Primed/Primed Point Blank\|Primed Point Blank]]   | [[Mods/Primary/Primed/Primed Ravage\|Primed Ravage]]   | [[Mods/Primary/Corrupted/Critical Deceleration\|Critical Deceleration]] | [[Mods/Primary/Elemental/Shotgun/Magnetic Strafe\|Magnetic Strafe]]  |

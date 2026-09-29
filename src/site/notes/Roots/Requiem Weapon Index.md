@@ -1,7 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/roots/requiem-weapon-index/","created":"2026-09-06T07:42:21.763-04:00","updated":"2026-09-29T10:19:55.691-04:00","dg-note-properties":{"links":["[[Roots/Weapons]]"]}}
+{"dg-publish":true,"permalink":"/roots/requiem-weapon-index/","created":"2026-09-06T07:42:21.763-04:00","updated":"2026-09-29T17:07:37.437-04:00","dg-note-properties":{"links":["[[Roots/Weapons]]"]}}
 ---
 
-[[Roots/Coda Weapons\|Coda Weapons]]
-[[Roots/Kuva Weapons\|Kuva Weapons]]
-[[Roots/Tenet Weapons\|Tenet Weapons]]
+- [[Roots/Coda Weapons\|Coda Weapons]]
+- [[Roots/Kuva Weapons\|Kuva Weapons]]
+- [[Roots/Tenet Weapons\|Tenet Weapons]]

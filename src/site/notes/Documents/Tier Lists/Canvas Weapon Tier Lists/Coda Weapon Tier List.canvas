@@ -1,0 +1,159 @@
+---
+{"dg-publish":true,"permalink":"/documents/tier-lists/canvas-weapon-tier-lists/coda-weapon-tier-list.canvas/","contentClasses":"canvas-page","created":"2026-09-05T06:25:17.538-04:00","updated":"2026-09-29T10:26:28.963-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+---
+
+<div id="Coda_Weapon_Tier_Listcanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-Coda_Weapon_Tier_Listcanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-Coda_Weapon_Tier_Listcanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-group has-color" data-node-id="e8f4939c6458ab7e" style="transform: translate(-1320px, 280px); width: 3440px; height: 2000px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">S</div>
+</div>
+<div class="canvas-node canvas-node-group has-color" data-node-id="0f3903795275b82b" style="transform: translate(-1200px, 440px); width: 3200px; height: 1040px; --canvas-color: #fb464c; ">
+	<div class="canvas-node-label">Apex</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="ec4edff3075a1c47" data-file-path="Weapons/Requiem/Coda/Primary/Coda Hema.md" style="transform: translate(200px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Hema</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/primary/coda-hema//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="795d502a28eab07e" data-file-path="Weapons/Requiem/Coda/Primary/Coda Synapse.md" style="transform: translate(640px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Synapse</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/primary/coda-synapse//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e69a31d0b83e58fd" data-file-path="Weapons/Requiem/Coda/Primary/Coda Sporothrix.md" style="transform: translate(-1140px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Sporothrix</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/primary/coda-sporothrix//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="5fb485ffc8ce688e" data-file-path="Weapons/Requiem/Coda/Primary/Coda Bassocyst.md" style="transform: translate(-680px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Bassocyst</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/primary/coda-bassocyst//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="2a7c8a48b96e3ad1" data-file-path="Weapons/Requiem/Coda/Melee/Coda Caustacyst.md" style="transform: translate(-1140px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Caustacyst</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-caustacyst//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="26ef254955b67c16" data-file-path="Weapons/Requiem/Coda/Melee/Coda Hirudo.md" style="transform: translate(-680px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Hirudo</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-hirudo//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="6b9d0a2b4fdfcde6" data-file-path="Weapons/Requiem/Coda/Primary/Coda Bubonico.md" style="transform: translate(-240px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Bubonico</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/primary/coda-bubonico//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="3f126c9f1de24b17" data-file-path="Weapons/Requiem/Coda/Melee/Coda Motovore.md" style="transform: translate(-240px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Motovore</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-motovore//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="647e763b3ece0f24" data-file-path="Weapons/Requiem/Coda/Secondary/Dual Coda Torxica.md" style="transform: translate(1080px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Dual Coda Torxica</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/secondary/dual-coda-torxica//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="d388714139c7cc1f" data-file-path="Weapons/Requiem/Coda/Secondary/Coda Catabolyst.md" style="transform: translate(1540px, 500px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Catabolyst</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/secondary/coda-catabolyst//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f5c1911054e0c072" data-file-path="Weapons/Requiem/Coda/Melee/Coda Hirudo.md" style="transform: translate(1080px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Hirudo</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-hirudo//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="7000a3776c286d80" data-file-path="Weapons/Requiem/Coda/Melee/Coda Pathocyst.md" style="transform: translate(640px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Pathocyst</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-pathocyst//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0b61e671d85fbada" data-file-path="Weapons/Requiem/Coda/Melee/Coda Caustacyst.md" style="transform: translate(200px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Caustacyst</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-caustacyst//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="c193cf27611ac1c4" data-file-path="Weapons/Requiem/Coda/Secondary/Coda Pox.md" style="transform: translate(-1160px, 1640px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Pox</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/secondary/coda-pox//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="d2155b7578f61f0e" data-file-path="Weapons/Requiem/Coda/Secondary/Coda Tysis.md" style="transform: translate(-680px, 1640px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Tysis</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/secondary/coda-tysis//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="fe09093a527aa3bd" data-file-path="Weapons/Requiem/Coda/Melee/Coda Mire.md" style="transform: translate(1540px, 960px); width: 400px; height: 400px; ">
+	<div class="canvas-node-label">Coda Mire</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/weapons/requiem/coda/melee/coda-mire//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
