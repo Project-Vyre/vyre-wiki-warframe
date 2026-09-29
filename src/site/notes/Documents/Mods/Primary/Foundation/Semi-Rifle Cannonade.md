@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documents/mods/primary/foundation/semi-rifle-cannonade/","tags":["Primary","Rifle"],"created":"2026-09-07T08:34:20.569-04:00","updated":"2026-09-16T06:48:47.306-04:00","dg-note-properties":{"tags":["Primary","Rifle"],"links":null}}
+{"dg-publish":true,"permalink":"/documents/mods/primary/foundation/semi-rifle-cannonade/","tags":["Primary","Rifle"],"created":"2026-09-07T08:34:20.569-04:00","updated":"2026-09-29T06:35:51.178-04:00","dg-note-properties":{"tags":["Primary","Rifle"],"links":null}}
 ---
 
 # Rank 5
@@ -8,4 +8,5 @@
 - +240% Damage
 - +1.5 Punch Through
 
-Useful for negating the Fire Rate penalty of [[Documents/Mods/Primary/Corrupted/Critical Delay\|Critical Delay]] and [[Documents/Mods/Primary/Corrupted/Vile Precision\|Vile Precision]].
+> [!TIP]
+> Useful for negating the Fire Rate penalty of [[Documents/Mods/Primary/Corrupted/Critical Delay\|Critical Delay]] and [[Documents/Mods/Primary/Corrupted/Vile Precision\|Vile Precision]].

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-24T09:16:47.620-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
+{"dg-publish":true,"permalink":"/tier-lists/text-warframe-tier-lists/solo-survivalists/","created":"2026-09-06T06:37:11.721-04:00","updated":"2026-09-29T06:51:57.725-04:00","dg-note-properties":{"links":["[[Roots/Tier Lists]]"]}}
 ---
 
 # S: Practically Immortal
@@ -17,8 +17,8 @@ For Warframes that are nearly impossible to die with in most situations **withou
 
 [[Documents/Arcanes/Warframe Arcanes/Arcane Persistence\|Arcane Persistence]] used in conjunction with her 4th ability makes her immune to status effects, which consequently renders Magnetic status effects null. For context, being inflicted with Magnetic status disables Arcane Persistence's damage cap of 500 damage per second.
 
-### How about Acolyte Violence's Ability Nullification?
-Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> Acolyte Violence disabling abilities will result in death if not immediately dispatched.
 
 ## Revenant
 
@@ -28,6 +28,7 @@ Acolyte Violence disabling abilities will result in death if not immediately dis
 | Arcane Blessing?    | No.   |
 
 Cast Mesmer Skin and you're basically good to endure everything except Nullifiers.
+
 > [!QUOTE] Mesmer Skin
 > Become enveloped in Sentient energy, redirecting damage and stunning all those who dare attack. Stunned enemies can be Enthralled at no energy cost.
 
@@ -38,8 +39,8 @@ What the tooltip for Mesmer Skin fails to mention is that it makes Revenant immu
 
 Sharing is caring.
 
-### How about Acolyte Violence's Ability Nullification?
-Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> Acolyte Violence disabling abilities will result in death if not immediately dispatched.
 
 ## Oberon
 
@@ -49,7 +50,7 @@ Acolyte Violence disabling abilities will result in death if not immediately dis
 | Arcane Blessing?          | No.   |
 | Arcane Universal Fallout? | Yes.  |
 
-Post rework Oberon is *the* immortal cow.
+Post rework Oberon is *the* immortal cow, deer or... bison? I don't know. Regardless, he is very difficult to die with in normal gameplay.
 
 >[!QUOTE] Passive
 >*Oberon grants **Righteous Negation** to himself and his allies in Affinity Range when he collects Health Orbs, protecting players against the next instance of damage. Stacks up to 3 times.*
@@ -58,8 +59,8 @@ Paired with [[Documents/Arcanes/Warframe Arcanes/Arcane Universal Fallout\|Arcan
 
 Hallowed Ground (2nd ability) provides complete Status immunity with some healing.
 
-### How about Acolyte Violence's Ability Nullification?
-Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
 
 ## Nidus
 
@@ -75,7 +76,7 @@ His Passive by default makes him practically immortal considering enemies are co
 
 His 4th ability Ravenous provides Status immunity, thus effectively nullifying the weakness of Arcane Persistence.
 
-### How about Acolyte Violence's Ability Nullification?
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
 
 ## Valkyr
@@ -96,8 +97,8 @@ Her high Armor also gives her 75% to 91%+ Damage Reduction.
 
 Her 4th ability Hysteria makes her immune to Status effects, nullifying the weakness of Arcane Persistence.
 
-### How about Acolyte Violence's Ability Nullification?
-Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> Acolyte Violence disabling abilities will not result in immediate death due to the nature of Passives being unable to be disabled.
 
 ## Nyx
 
@@ -109,19 +110,33 @@ Acolyte Violence disabling abilities will not result in immediate death due to t
 
 Assimilate for Nyx's 4th ability, Absorb, effectively makes her immortal until she touches a Nullifier or gets her abilities disabled.
 
-### How about Acolyte Violence's Ability Nullification?
-Acolyte Violence disabling abilities will result in death if not immediately dispatched.
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> Acolyte Violence disabling abilities will result in death if not immediately dispatched.
 
 # A: Immortal when Actively Played
 Requires some attentiveness to stay alive.
 
+## Banshee
+
+
+| Requirements        | Notes          |
+| ------------------- | -------------- |
+| Arcane Persistence? | Not mandatory. |
+| Arcane Blessing?    | Not mandatory. |
+| Arcane Circumvent?  | Yes.           |
+See the [[Documents/Warframes/Banshee#Solo Survivalist\|Banshee -> Solo Survivalist]] section for an explanation.
+
+> [!WARNING] How about Acolyte Violence's Ability Nullification?
+> So... consider the following:
+> - [[Sonic Siphon\|Sonic Siphon]]'s active Armor increase is **not** nullified.
+> - [[Documents/Mods/Warframe/Adaptation\|Adaptation]]
 ## Garuda
 
-| Requirements        | Notes                                                                                                                                                                           |
+| Requirements        | Notes                                                                                                                                                                          |
 | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Arcane Persistence? | Ye                                                                                                                                                                              |
-| Arcane Blessing?    |                                                                                                                                                                                 |
-| Dread Ward?       Yes, but it's difficult to trigger as your own weapons and squadmates will kill enemies before you can whittle the enemy health to 40% to execute them to trigger the augment. lth  |
+| Arcane Persistence? | Yes                                                                                                                                                                            |
+| Arcane Blessing?    | Not needed.                                                                                                                                                                    |
+| Dread Ward?         | Yes, but it's difficult to trigger as your own weapons and squadmates will kill enemies before you can whittle the enemy health to 40% to execute them to trigger the augment. |
 
 ### How about Acolyte Violence's Ability Nullification?
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
@@ -145,6 +160,8 @@ His 3rd ability, Defy, provides brief invulnerability with no cooldown until you
 Acolyte Violence disabling abilities will result in death if not immediately dispatched.
 
 # B - F
+
 Everyone else.
+- Toxin usually results in immediate death, even with Shield Gating.
 - **Invisibility is not invulnerability**. You will die from some offshoot AoE attack somewhere where you're not looking.
 - Xaku's dodge and passive does not make them tanky. You are guaranteed to be dead at some point from a single hit from a random enemy.
