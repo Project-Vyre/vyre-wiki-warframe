@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/secondary/vasto-incarnon-genesis/","tags":["Secondary"],"created":"2026-09-05T08:06:33.376-04:00","updated":"2026-09-15T16:17:11.822-04:00","dg-note-properties":{"tags":["Secondary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Secondary]]"]}}
+{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/secondary/vasto-incarnon-genesis/","tags":["Secondary"],"created":"2026-09-05T08:06:33.376-04:00","updated":"2026-09-29T20:53:23.451-04:00","dg-note-properties":{"tags":["Secondary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Secondary]]"]}}
 ---
 
-![VastoIncarnonGenesis.png](/img/user/Assets/VastoIncarnonGenesis.png)
+![VastoIncarnonGenesis.png\|256](/img/user/Assets/VastoIncarnonGenesis.png)
 > Strongest single target burst DPS in the game.
 
 # Pistol Acuity Build

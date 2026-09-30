@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/primary/latron-incarnon-genesis/","tags":["Primary"],"created":"2026-09-05T07:45:52.510-04:00","updated":"2026-09-16T05:57:08.439-04:00","dg-note-properties":{"tags":["Primary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Primary]]"]}}
+{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/primary/latron-incarnon-genesis/","tags":["Primary"],"created":"2026-09-05T07:45:52.510-04:00","updated":"2026-09-29T20:48:55.568-04:00","dg-note-properties":{"tags":["Primary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Primary]]"]}}
 ---
 
-![LatronIncarnonGenesis.png](/img/user/Assets/LatronIncarnonGenesis.png)
+![LatronIncarnonGenesis.png\|256](/img/user/Assets/LatronIncarnonGenesis.png)
 > Did someone ask for bouncing armageddon?
 
 ---
-# Builds
-## Latron Prime: Debilitate
+# Latron Prime Builds
+
+## Incarnon Evolutions
+
+> [!NOTE]
+> Weak Point hits charge Incarnon Transmutation; Alt Fire transmutes. Switching back will expend any remaining charge.
+
+These are the Evolutions used with all of the builds below. If there are multiple evolutions picked in the same node, they are ordered in priority from first to last.
+
+| Evolution | Description |
+| --------- | ----------- |
+| `I`:      |             |
+| `II`:     |             |
+| `III`:    |             |
+| `IV`:     |             |
+
+### Debilitate
 - Arcane: [[Arcanes/Primary Weapon Arcanes/Primary Debilitate\|Primary Debilitate]]
 - Exilus: N/A
 

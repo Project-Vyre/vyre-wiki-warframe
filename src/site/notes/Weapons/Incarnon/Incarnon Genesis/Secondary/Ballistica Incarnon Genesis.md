@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/secondary/ballistica-incarnon-genesis/","tags":["Secondary"],"created":"2026-09-05T08:03:55.598-04:00","updated":"2026-09-15T16:17:11.622-04:00","dg-note-properties":{"tags":["Secondary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Secondary]]"]}}
+{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/secondary/ballistica-incarnon-genesis/","tags":["Secondary"],"created":"2026-09-05T08:03:55.598-04:00","updated":"2026-09-29T20:51:52.194-04:00","dg-note-properties":{"tags":["Secondary"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Secondary]]"]}}
 ---
 
-![BallisticaIncarnonGenesis.png](/img/user/Assets/BallisticaIncarnonGenesis.png)
+![BallisticaIncarnonGenesis.png\|256](/img/user/Assets/BallisticaIncarnonGenesis.png)
 > Let's just say Vasto Incarnon Genesis and Coda Bassocyst had a baby.
 
 # Builds

@@ -6,5 +6,5 @@
 Converts Secondary ammo pickups to 92% of Ammo Pick Up.
 
 > [!TIP]
-> [[Weapons/Standard/Komorex\|Komorex]] **does not** need Sniper Ammo Mutation mods as it already has 100% ammo mutation built in!
+> [[Weapons/Standard/Primary/Komorex\|Komorex]] **does not** need Sniper Ammo Mutation mods as it already has 100% ammo mutation built in!
 
