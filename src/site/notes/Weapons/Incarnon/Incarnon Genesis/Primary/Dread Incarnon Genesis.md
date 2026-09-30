@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/primary/dread-incarnon-genesis/","tags":["Primary","Bow"],"created":"2026-09-05T07:45:29.976-04:00","updated":"2026-09-29T22:28:08.644-04:00","dg-note-properties":{"tags":["Primary","Bow"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Primary]]"]}}
+{"dg-publish":true,"permalink":"/weapons/incarnon/incarnon-genesis/primary/dread-incarnon-genesis/","tags":["Primary","Bow"],"created":"2026-09-05T07:45:29.976-04:00","updated":"2026-09-30T03:03:57.885-04:00","dg-note-properties":{"tags":["Primary","Bow"],"links":["[[Roots/Incarnon Genesis]]","[[Roots/Branches/Incarnon Genesis Primary]]"]}}
 ---
 
 ![DreadIncarnonGenesis.png\|256](/img/user/Assets/DreadIncarnonGenesis.png)
@@ -15,6 +15,7 @@
 These are the Evolutions used with all of the builds below. If there are multiple evolutions picked in the same node, they are ordered in priority from first to last.
 
 ### Evolution `I`: Incarnon Form
+
 Sacrifice silence for increased projectile size and Heat Damage. Infinite body Punch Through.
 
 ### Evolution `II`
