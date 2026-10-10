@@ -1,8 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/warframes/banshee/","tags":["Warframe"],"created":"2026-09-15T15:29:25.129-04:00","updated":"2026-09-29T09:51:11.339-04:00","dg-note-properties":{"tags":["Warframe"],"links":["[[Roots/Warframes]]"]}}
+{"dg-publish":true,"permalink":"/warframes/banshee/","tags":["Warframe"],"created":"2026-09-15T15:29:25.129-04:00","updated":"2026-10-09T07:09:25.222-04:00","dg-note-properties":{"tags":["Warframe"],"links":["[[Roots/Warframes]]"]}}
 ---
 
-Everything below is written with post-rework Banshee as of the Iceblade of Narin update.
+> The only thing that will save you is the vacuum of space.
+
+> [!NOTICE]
+> Everything below is written with post-rework Banshee as of the Iceblade of Narin update.
 # Abilities
 
 ## Passive
@@ -32,7 +35,7 @@ Post rework Banshee as of the Iceblade of Narin update, this ability now strips 
 
 - Can be used to push back Demolishers in Disruption missions for easy dispatching. I've personally pushed many Demolishers *and* Acolytes into the corner where they are immediately helpless. Push Force is **not** nullified by Demolishers.
 - Forced Impact Status Effect makes priority targets vulnerable to Mercy kills.
-- 
+
 ## Sonar (2)
 
 > [!QUOTE] In-game Tooltip
@@ -44,7 +47,7 @@ Weak points created by Banshee on enemy body parts use the usual body damage mul
 > Weak points on the body use the body damage multiplier, **not** the usual Headshot damage multiplier of 3x.
 ### Sonar Tips
 
-- Highlighted weak points from recasting Sonar or [[Resonance\|Resonance]] can overlap, increasing the Damage Multiplier.
+- Highlighted weak points from recasting Sonar or [[Mods/Warframe/Augments/Banshee/Resonance\|Resonance]] can overlap, increasing the Damage Multiplier.
 - Weak points created by Sonar are treated the same as regular enemy weak points, meaning they can charge Incarnon weapons, and trigger other abilities related to weak points. Weapons can also be modded for additional weak point damage.
 
 ## Silence (3)
@@ -94,8 +97,9 @@ Arcanes:
 
 Mods:
 
-|                     | Growing Power | Primed Sure Footed |              |
+| Mods                |               |                    |              |
 | ------------------- | ------------- | ------------------ | ------------ |
+|                     | Growing Power | Primed Sure Footed |              |
 | Primed Continuity   | Resonance     | Equilibrium        | Primed Vigor |
 | Transient Fortitude | Sonic Siphon  | Rage               | Adaptation   |
 
