@@ -51,7 +51,7 @@ Heavy Attacks spawn ghostly rapiers.
 > [!NOTE]
 > If building the weapon without a Spliced Riven, just build for Viral + Puncture.
 
-- Arcane: [[Melee Doughty\|Melee Doughty]]
+- Arcane: [[Arcanes/Melee Weapon Arcanes/Melee Doughty\|Melee Doughty]]
 - Stance: Vulpine Mask
 - Tennokai / Exilus: Discipline's Merit
 - Riven: Destreza Geli-caricron
