@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/warframes/banshee/","tags":["Warframe"],"created":"2026-09-15T15:29:25.129-04:00","updated":"2026-10-09T07:09:25.222-04:00","dg-note-properties":{"tags":["Warframe"],"links":["[[Roots/Warframes]]"]}}
+{"dg-publish":true,"permalink":"/warframes/banshee/","tags":["Warframe"],"created":"2026-09-15T15:29:25.129-04:00","updated":"2026-10-14T11:29:35.136-04:00","dg-note-properties":{"tags":["Warframe"],"links":["[[Roots/Warframes]]"]}}
 ---
 
 > The only thing that will save you is the vacuum of space.
@@ -22,6 +22,9 @@ Put simply, Banshee's passive makes it so that enemies do **80% less damage at a
 Base stats:
 - Drain: 25
 - Range: 15m
+- Damage: Impact 250
+- Push Force: 5
+- Armor Reduction: 70%
 
 > [!QUOTE] In-game Tooltip
 > Banshee emits a sonic shockwave that pushes targets in range with enough force to incapacitate attackers and reduce their Armor.
