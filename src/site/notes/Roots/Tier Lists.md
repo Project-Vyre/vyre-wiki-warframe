@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/roots/tier-lists/","created":"2026-09-06T07:01:02.891-04:00","updated":"2026-09-15T05:20:02.986-04:00","dg-note-properties":{"links":["[[Home]]"]}}
+{"dg-publish":true,"permalink":"/roots/tier-lists/","created":"2026-09-06T07:01:02.891-04:00","updated":"2026-10-21T08:27:59.194-04:00","dg-note-properties":{"links":["[[Home]]"]}}
 ---
 
 Complete with detailed notes and explanations.
+
+# Text
+
+- [[Documents/Tier Lists/Text Warframe Tier Lists/Incarnon Genesis Tier List\|Incarnon Genesis Tier List]]
+- [[Documents/Tier Lists/Text Warframe Tier Lists/Innate Incarnon Weapon Tier List\|Innate Incarnon Weapon Tier List]]
+# Canvas
 
 - [[Documents/Tier Lists/Canvas Weapon Tier Lists/Coda Weapon Tier List.canvas\|Coda Weapon Tier List.canvas]]
 - [[Documents/Tier Lists/Canvas Weapon Tier Lists/Tenet Weapon Tier List.canvas\|Tenet Weapon Tier List.canvas]]
