@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/documents/priority-spliced-traits/","created":"2026-10-21T07:35:54.942-04:00","updated":"2026-10-21T10:27:12.513-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/documents/priority-spliced-traits/","created":"2026-10-21T07:35:54.942-04:00","updated":"2026-10-21T10:38:25.949-04:00","dg-note-properties":{}}
 ---
 
 > [!TIP] Tips
@@ -62,7 +62,7 @@ Status Damage is a **final multiplicative damage increase** calculated after Fac
 Taking advantage of the fact that Status Damage **increases** damage dealt by Slash, Heat, Electricity, Toxin, Blast and Gas Status Effects, it only makes sense to pair it with Viral for a compounding effect.
 
 > [!INFO]
-> Mermaid chart is a work in progress.
+> Mermaid chart is a work in progress. Best viewed locally through Obsidian.
 
 ```mermaid
 flowchart TD
